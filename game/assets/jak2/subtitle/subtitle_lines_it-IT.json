@@ -12,10 +12,60 @@
       "Il mio contatto nella guardia mi ha riferito che la chiusa centrale dell'acqua si trova all'esterno della città, alla Stazione di Pompaggio.",
       "Fuori città, hai detto? E come facciamo a superare le mura?",
       "E poi ci sono le Teste di Metallo. Lo sapete che là fuori è un manicomio. Ci lasceremmo le penne tutti quanti!",
-      "Trovate il grosso condotto di drenaggio nel muro a Nord. Vi porterà fuori dalla città, fino alla Stazione di Pompaggio. Trovata la chiusa centrale, apritela.",
+      "Trovate il grosso condotto di drenaggio nel muro a Nord.",
+      "Vi porterà fuori dalla città, fino alla Stazione di Pompaggio.",
+      "Trovata la chiusa centrale, apritela.",
       "Se sopravviverete, i Bassifondi saranno in debito con voi.",
       "Altrimenti, faranno una commovente cerimonia alla vostra memoria.",
       "HA, vorrei fargliene una io di \"cerimonia\", a quelli!"
+    ],
+    "atoll-1-res": [
+      "Oh bene, ecco la chiusa. Ci penso io.",
+      "Jaaak, dove seiii?",
+      "Jaak, aiutamiii!",
+      "Jak... Jak, aiuto!",
+      "No, non dire niente. E non ridere, hai capito?!",
+      "Un'altra volta ci vieni TU ad aprire la chiusa."
+    ],
+    "atoll-2-intro": [
+      "Bravo, eccellente mira, Jak! Non vorresti diventare un Cacciatore del Deserto, mmh?",
+      "No, a dire il vero no.",
+      "Questi Cacciatori mi procurano degli oggetti che mi servono, fuori dalle mura della città.",
+      "Ogni artefatto o arma che valga la pena possedere passa per le MIE mani",
+      "e se tu lavorassi per me potrei darti alcuni dei pezzi migliori, mmh...",
+      "Cacciare Teste di Metallo per avere giocattoli? Per me va benissimo!",
+      "Frena Jak, e anche tu cicciobello! Avete fatto i conti senza di me, cocchi...",
+      "perché NON ESISTE PROPRIO che io vada ancora là fuori, in mezzo a quelle Teste di Metallo.",
+      "Sig vi darà le istruzioni necessarie.",
+      "E così tu vorresti fare il Cacciatore, giovanotto?",
+      "Beh, vedremo cosa saprai fare quando saremo là fuori.",
+      "Krew vuole dei nuovi trofei da appendere nel suo saloon",
+      "e io gli porterò cinque Teste di Metallo prelevate dalla Stazione di Pompaggio.",
+      "Non fartela sotto bestiolina, perché noi andremo in giro con questo Peace Maker.",
+      "Wow! Voglio anch'io uno di quei cosi! Dove si prendono?",
+      "Non fare domande. Sig ha bisogno che qualcuno gli copra le spalle mentre cerca le Teste di Metallo, intesi?",
+      "Ci troviamo alla stazione di Pompaggio.",
+      "E ricordate bambini, non fatemi aspettare troppo. Non è un posto sicuro!",
+      "Ci andiamo subito!"
+    ],
+    "atoll-sig-intro": [
+      "Salve miei piccoli amici! Siete pronti a dar la caccia alle Teste di Metallo?",
+      "Allora seguitemi e copritemi le spalle.",
+      "Ci sarà da divertirsi!"
+    ],
+    "atoll-sniper-e": [
+      "BOOM! Cinque punti per noi, Teste di Metallo: zero!",
+      "Ragazzi era l'ultimo. Dite a Krew che li abbiamo cucinati per bene.",
+      "Io pulisco il Peace Maker e raccolgo trofei. Niente male, non è vero?"
+    ],
+    "castle-krew-boss-fight-res": [
+      "È tardi per darti il preavviso?",
+      "Sì. Ci licenziamo!",
+      "La città è gia morta, ormai! Vi ho venduti tutti! Hahahahahaha",
+      "Ehm, Jak... credo che dovremmo andare da qualche altra parte... e subito anche!",
+      "Ashelin?",
+      "Andiamocene.",
+      "Oh, bene."
     ],
     "city-class-1-race-res": [
       "Grazie, grazie mille a tutti! Smack! Io adoro il mio pubblico!",
@@ -35,7 +85,7 @@
       "Attenzione!",
       "Sarò io il vincitore!",
       "Uaaargh!",
-      "Prendeteli!"
+      "PRENDETELI!"
     ]
   },
   "other": {

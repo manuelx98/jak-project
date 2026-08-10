@@ -48,6 +48,47 @@
       "E ricordate bambini, non fatemi aspettare troppo. Non è un posto sicuro!",
       "Ci andiamo subito!"
     ],
+    "atoll-3-intro": [
+      "Uno dei miei vecchi compagni nella Guardia è stato mandato alla Stazione di Pompaggio.",
+      "Non abbiamo avuto più notizie dalla pattuglia e, dopo quello che voi due avete combinato laggiù,",
+      "credo che la amica abbia bisogno d'aiuto.",
+      "Una tua amica, hai detto?",
+      "Non farti venire idee strane!",
+      "E tu piantala! Questa è una faccenda seria, idiota!",
+      "Aaah! Dillo anche a lui! Non si scherza con il fuoco.",
+      "L'\"amica\" di cui vi parlavo, in passato, ha aiutato molte volte i Bassifondi.",
+      "Tornate alla Stazione di Pompaggio e date un'occhiata in giro. Prestate assistenza, se necessario.",
+      "E tu porta subito quel tuo sedere peloso fuori da qui!"
+    ],
+    "atoll-save-ashelin-res-a": [
+      "Eeehi, cosa cavolo ci facciamo in questo posto?",
+      "Stiamo rischiando la pelle per salvare un'arpia delle Guardie Kremizi?!",
+      "E scommetto che è anche più pelosa di me!",
+      "Chi diavolo siete voi due?!",
+      "Mmmh... le donne in uniforme mi hanno sempre fatto impazzire!",
+      "Se vuoi puoi abbaiarmi degli ordini. Woof woof!",
+      "Sono il tuo soldato impegnato in una battaglia d'amore per te!",
+      "Cameriere, una trincea per due!",
+      "Chiudi il becco o ti faccio salire la voce di un paio di ottave.",
+      "Sta' calma. Torn ci ha mandati qui per aiutarti.",
+      "Io non ho bisogno di aiuto, ma voi sì. Guardate: abbiamo compagnia."
+    ],
+    "atoll-save-ashelin-res-b": [
+      "Guardarmi mentre facevo saltare tutte quelle Teste di Metallo dev'essere stato... emozionante. Che ne dici, dolcezza?",
+      "Ehi, zuccherino in uniforme... aspetta! Dammi il tuo codice, così ti chiamo qualche volta.",
+      "Credo che io e te insieme potremmo spassarcela di brutto!",
+      "Dite a Torn che il Barone Praxis prepara qualcosa di grosso.",
+      "Penso che abbia a che fare con quel simbolo.",
+      "Di che simbolo parli?",
+      "È il Sigillo della Casa di Mar, il fondatore di Haven City.",
+      "Ci hanno mandati in una missione suicida pur di trovare opere d'arte risalenti al tempo del suo regno.",
+      "Se volete indagare interrogate la vecchia indovina cieca.",
+      "Si chiama Onin, la troverete al Bazar. Lei potrebbe dirvi qualcosa di più.",
+      "Ecco il mio pass: è la chiave d'accesso al Bazar.",
+      "Il tuo nome è Ashelin, giusto?",
+      "Adesso siamo pari!",
+      "Wow! Che donna, ragazzi! Argh!"
+    ],
     "atoll-sig-intro": [
       "Salve miei piccoli amici! Siete pronti a dar la caccia alle Teste di Metallo?",
       "Allora seguitemi e copritemi le spalle.",
@@ -58,6 +99,23 @@
       "Ragazzi era l'ultimo. Dite a Krew che li abbiamo cucinati per bene.",
       "Io pulisco il Peace Maker e raccolgo trofei. Niente male, non è vero?"
     ],
+    "castle-krew-boss-fight-intro": [
+      "Ho capito che eri un tipo speciale la prima volta che ti ho visto.",
+      "Devo farti i miei complimenti, ragazzo! Ne abbiamo fatta di strada, eh?",
+      "Grazie. Quasi quasi mi commuovo.",
+      "Sai, io amo le armi: amo la loro forma, il loro peso, e anche il loro odore...",
+      "Io dico che devi farti curare.",
+      "La mia preferita era l'arma che aveva costruito Mar per violare il nido delle Teste di Metallo.",
+      "Ma quello stolto morì prima di usarla. Ah, che peccato!",
+      "Così la mia preferita è la Bomba Perforante, che ho completato ora.",
+      "Il mio gioiello è così potente da spaccare la Pietra del Precursor",
+      "e liberare l'enorme energia che contiene.",
+      "Quando il Barone avrà la Pietra la porteremo nascosta nell'ultimo carico di Eco al nido delle Teste di Metallo.",
+      "Un bel dolce a sorpresa! Mhmhmhmh",
+      "Prendi questo potenziamento per arma e dimentica ciò che hai visto.",
+      "Non questa volta, Krew. Sono stanco di fare il tuo sicario!",
+      "Se vuoi la guerra, allora l'avrai!"
+    ],
     "castle-krew-boss-fight-res": [
       "È tardi per darti il preavviso?",
       "Sì. Ci licenziamo!",
@@ -66,6 +124,34 @@
       "Ashelin?",
       "Andiamocene.",
       "Oh, bene."
+    ],
+    "city-ashelin-drop-off": [
+      "Ragazzi, trovate mio padre.",
+      "Io porterò il Cuore di Mar a Keira.",
+      "Mi spiace si sia arrivati a questo."
+    ],
+    "city-class-1-race-intro-a": [
+      "Vi mostrerò ciò a cui sto lavorando, se mi promettete di non ridere.",
+      "Adoro le sorprese, e adoro ridere! Dai, facci vedere!",
+      "Sto costruendo un duplicato del Rift Rider distrutto usando antichi artefatti.",
+      "Ben fatto, figliola!",
+      "Però mi mancano ancora due pezzi!",
+      "Ti pareva!",
+      "Vin dice che mi serve un artefatto chiamato \"Mappa del Tempo\"",
+      "e un'antica gemma energetica detta \"Cuore di Mar\".",
+      "Ho guardato tutti i libri che ho trovato sulla storia dei Precursor",
+      "ma sembra che il Rift Ring sia scomparso!",
+      "...che brava! Voglio dire-  è un lavoro utile!",
+      "Oh, volete finirla di cianciare? Diamoci una mossa!",
+      "Io ho visto il Cuore di Mar: ce l'ha Krew. Recuperemo quei due artefatti Keira.",
+      "I piloti si preparino: la gara del campionato di classe 1 sta per cominciare.",
+      "Beh, ci siamo. La gara della mia vita!",
+      "Jak... volevo farti sapere che... beh, ecco, sei il miglior pilota che abbia mai conosciuto.",
+      "Ehi, e io chi sono? Anch'io ho dato una mano!",
+      "Vuoi guidare tu?",
+      "Contro quel pazzo scatenato di Erol? Non ci penso proprio! Tieni tu il volante, fratello.",
+      "E cerca di farci restare vivi o non ti rivolgerò mai più la parola! Ovviamente.",
+      "Fagli mangiare la polvere, Jak!"
     ],
     "city-class-1-race-res": [
       "Grazie, grazie mille a tutti! Smack! Io adoro il mio pubblico!",

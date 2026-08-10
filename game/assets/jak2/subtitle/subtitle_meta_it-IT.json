@@ -1080,6 +1080,657 @@
           "speaker": "baron"
         }
       ]
+    },
+    "city-defend-stadium-res": {
+      "lines": [
+        {
+          "frame_end": 71,
+          "frame_start": 32,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "brutter"
+        },
+        {
+          "frame_end": 200,
+          "frame_start": 92,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "daxter"
+        },
+        {
+          "frame_end": 251,
+          "frame_start": 208,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "keira"
+        },
+        {
+          "frame_end": 319,
+          "frame_start": 262,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "keira"
+        },
+        {
+          "frame_end": 395,
+          "frame_start": 329,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "daxter"
+        }
+      ]
+    },
+    "city-errol-challenge-res": {
+      "lines": [
+        {
+          "frame_end": 120,
+          "frame_start": 72,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "jak"
+        },
+        {
+          "frame_end": 199,
+          "frame_start": 121,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "errol"
+        },
+        {
+          "frame_end": 308,
+          "frame_start": 203,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "errol"
+        },
+        {
+          "frame_end": 444,
+          "frame_start": 334,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "daxter"
+        }
+      ]
+    },
+    "city-get-dark-gun": {
+      "lines": [
+        {
+          "frame_end": 344,
+          "frame_start": 240,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "daxter"
+        }
+      ]
+    },
+    "city-get-hoverboard": {
+      "lines": [
+        {
+          "frame_end": 163,
+          "frame_start": 59,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "daxter"
+        }
+      ]
+    },
+    "city-intercept-tanker-res": {
+      "lines": [
+        {
+          "frame_end": 196,
+          "frame_start": 92,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "ashelin"
+        },
+        {
+          "frame_end": 297,
+          "frame_start": 211,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "ashelin"
+        },
+        {
+          "frame_end": 362,
+          "frame_start": 318,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "ashelin"
+        },
+        {
+          "frame_end": 435,
+          "frame_start": 381,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "jak"
+        }
+      ]
+    },
+    "city-krew-collection-res": {
+      "lines": [
+        {
+          "frame_end": 169,
+          "frame_start": 132,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "krew"
+        },
+        {
+          "frame_end": 225,
+          "frame_start": 171,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "krew"
+        },
+        {
+          "frame_end": 371,
+          "frame_start": 234,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "krew"
+        },
+        {
+          "frame_end": 472,
+          "frame_start": 386,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "daxter"
+        }
+      ]
+    },
+    "city-whack-a-metal-intro": {
+      "lines": [
+        {
+          "frame_end": 164,
+          "frame_start": 29,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "tess"
+        },
+        {
+          "frame_end": 235,
+          "frame_start": 165,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "daxter"
+        },
+        {
+          "frame_end": 325,
+          "frame_start": 236,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "daxter"
+        },
+        {
+          "frame_end": 428,
+          "frame_start": 326,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "daxter"
+        },
+        {
+          "frame_end": 512,
+          "frame_start": 440,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "tess"
+        }
+      ]
+    },
+    "ecowells-victory": {
+      "lines": [
+        {
+          "frame_end": 342,
+          "frame_start": 204,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "daxter"
+        }
+      ]
+    },
+    "fortress-blow-up-ammo-res-a": {
+      "lines": [
+        {
+          "frame_end": 118,
+          "frame_start": 65,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "daxter"
+        },
+        {
+          "frame_end": 235,
+          "frame_start": 163,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "daxter"
+        },
+        {
+          "frame_end": 316,
+          "frame_start": 299,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "jak"
+        },
+        {
+          "frame_end": 580,
+          "frame_start": 512,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "guard"
+        },
+        {
+          "frame_end": 684,
+          "frame_start": 590,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "guard"
+        },
+        {
+          "frame_end": 871,
+          "frame_start": 754,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "jak"
+        }
+      ]
+    },
+    "intro-city-square": {
+      "lines": [
+        {
+          "frame_end": 849,
+          "frame_start": 586,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "daxter"
+        },
+        {
+          "frame_end": 911,
+          "frame_start": 852,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "guard"
+        },
+        {
+          "frame_end": 975,
+          "frame_start": 938,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "guard"
+        },
+        {
+          "frame_end": 1016,
+          "frame_start": 980,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "daxter"
+        },
+        {
+          "frame_end": 1099,
+          "frame_start": 1028,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "errol"
+        },
+        {
+          "frame_end": 1189,
+          "frame_start": 1143,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "errol"
+        },
+        {
+          "frame_end": 1332,
+          "frame_start": 1250,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "daxter"
+        }
+      ]
+    },
+    "intro-vortex": {
+      "lines": [
+        {
+          "frame_end": 72,
+          "frame_start": 34,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "keira"
+        },
+        {
+          "frame_end": 163,
+          "frame_start": 97,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "samos"
+        },
+        {
+          "frame_end": 336,
+          "frame_start": 203,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "daxter"
+        },
+        {
+          "frame_end": 392,
+          "frame_start": 337,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "daxter"
+        },
+        {
+          "frame_end": 474,
+          "frame_start": 419,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "keira"
+        },
+        {
+          "frame_end": 556,
+          "frame_start": 484,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "samos"
+        }
+      ]
+    },
+    "palace-boss-res": {
+      "lines": [
+        {
+          "frame_end": 297,
+          "frame_start": 190,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "baron"
+        },
+        {
+          "frame_end": 405,
+          "frame_start": 298,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "baron"
+        },
+        {
+          "frame_end": 464,
+          "frame_start": 410,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "baron"
+        },
+        {
+          "frame_end": 570,
+          "frame_start": 496,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "daxter"
+        }
+      ]
+    },
+    "ruins-sacred-victory": {
+      "lines": [
+        {
+          "frame_end": 196,
+          "frame_start": 85,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "daxter"
+        },
+        {
+          "frame_end": 251,
+          "frame_start": 197,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "jak"
+        },
+        {
+          "frame_end": 339,
+          "frame_start": 268,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "daxter"
+        },
+        {
+          "frame_end": 402,
+          "frame_start": 340,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "jak"
+        },
+        {
+          "frame_end": 572,
+          "frame_start": 416,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "jak"
+        }
+      ]
+    },
+    "ruins-tower-victory": {
+      "lines": [
+        {
+          "frame_end": 51,
+          "frame_start": 21,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "daxter"
+        },
+        {
+          "frame_end": 302,
+          "frame_start": 211,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "daxter"
+        },
+        {
+          "frame_end": 461,
+          "frame_start": 310,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "daxter"
+        },
+        {
+          "frame_end": 557,
+          "frame_start": 535,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "daxter"
+        },
+        {
+          "frame_end": 925,
+          "frame_start": 861,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "torn"
+        }
+      ]
+    },
+    "sewer-blow-up-statue-res": {
+      "lines": [
+        {
+          "frame_end": 90,
+          "frame_start": 10,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "mog"
+        },
+        {
+          "frame_end": 162,
+          "frame_start": 100,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "jinx"
+        },
+        {
+          "frame_end": 304,
+          "frame_start": 217,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "jinx"
+        },
+        {
+          "frame_end": 379,
+          "frame_start": 313,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "jak"
+        },
+        {
+          "frame_end": 534,
+          "frame_start": 505,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "jinx"
+        },
+        {
+          "frame_end": 746,
+          "frame_start": 648,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "jinx"
+        },
+        {
+          "frame_end": 808,
+          "frame_start": 749,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "jinx"
+        }
+      ]
+    },
+    "sewer-drain-res": {
+      "lines": [
+        {
+          "frame_end": 363,
+          "frame_start": 347,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "daxter"
+        },
+        {
+          "frame_end": 600,
+          "frame_start": 489,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "jak"
+        },
+        {
+          "frame_end": 785,
+          "frame_start": 601,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "daxter"
+        },
+        {
+          "frame_end": 835,
+          "frame_start": 790,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "daxter"
+        }
+      ]
+    },
+    "sewer-hosehead": {
+      "lines": [
+        {
+          "frame_end": 147,
+          "frame_start": 123,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "jinx"
+        },
+        {
+          "frame_end": 200,
+          "frame_start": 148,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "mog"
+        },
+        {
+          "frame_end": 278,
+          "frame_start": 213,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "grim"
+        },
+        {
+          "frame_end": 339,
+          "frame_start": 281,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "jinx"
+        },
+        {
+          "frame_end": 378,
+          "frame_start": 334,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "mog"
+        }
+      ]
+    },
+    "tomb-boss-res": {
+      "lines": [
+        {
+          "frame_end": 326,
+          "frame_start": 224,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "baron"
+        },
+        {
+          "frame_end": 459,
+          "frame_start": 346,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "baron"
+        },
+        {
+          "frame_end": 562,
+          "frame_start": 465,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "baron"
+        }
+      ]
+    },
+    "tomb-spider-scare": {
+      "lines": [
+        {
+          "frame_end": 309,
+          "frame_start": 275,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "daxter"
+        }
+      ]
+    },
+    "under-centipede-one": {
+      "lines": [
+        {
+          "frame_end": 177,
+          "frame_start": 93,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "sig"
+        }
+      ]
+    },
+    "under-centipede-three": {
+      "lines": [
+        {
+          "frame_end": 109,
+          "frame_start": 43,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "sig"
+        },
+        {
+          "frame_end": 133,
+          "frame_start": 112,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "sig"
+        }
+      ]
     }
   },
   "other": {

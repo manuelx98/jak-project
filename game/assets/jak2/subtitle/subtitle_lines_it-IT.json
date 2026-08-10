@@ -172,6 +172,129 @@
       "Sarò io il vincitore!",
       "Uaaargh!",
       "PRENDETELI!"
+    ],
+    "city-defend-stadium-res": [
+      "Su, su! Più veloce!",
+      "Dev'essere bello volare via mentre NOI ce ne stiamo qui a crepare!",
+      "Ci vediamo al nido!",
+      "A presto, Jak! Sta' attento!",
+      "Sì Jak, \"stai attento\"!"
+    ],
+    "city-errol-challenge-res": [
+      "HA HA! hehe",
+      "Argh! Non ti montare la testa, criminale!",
+      "La prossima faremo sul serio, e la tua testa sarà il mio trofeo!",
+      "Ma smettila, sbruffone! Te le abbiamo suonate, altroché!"
+    ],
+    "city-get-dark-gun": [
+      "Bene, ora abbiamo il nostro Peace Maker! Si balla, amico!"
+    ],
+    "city-get-hoverboard": [
+      "WOW! Il Jet Board è nostro! Che bomba ragazzi!"
+    ],
+    "city-intercept-tanker-res": [
+      "Li abbiamo eliminati. Le Teste di Metallo diventano sempre più audaci.",
+      "Sembra quasi stiano mettendo alla prova le nostre difese.",
+      "Ho un brutto presentimento...",
+      "E dire \"grazie\", magari?!"
+    ],
+    "city-krew-collection-res": [
+      "Mmh...",
+      "Recupero crediti, eh?",
+      "Beh, prendete questo potenziamento per arma e andatevene! È l'ora del pisolino di bellezza.",
+      "Un pisolino?! Umpf, dovresti dormire un secolo!"
+    ],
+    "city-whack-a-metal-intro": [
+      "Ehi, ragazzi. Qualunque cosa Krew abbia messo in quella macchina... sembrava veramente agitato.",
+      "Qualunque cosa fosse, a Krew non servirà più.",
+      "Possiamo dire che... al momento non è più intero.",
+      "Fatti da parte, Jak. Lascia che sia un vero giocatore a darsi da fare.",
+      "Daxter, sei proprio... un grande animale!"
+    ],
+    "ecowells-victory": [
+      "WOW! Evvai! Evviva! HA HAAA-"
+    ],
+    "fortress-blow-up-ammo-res-a": [
+      "Wow, è un lasciapassare!",
+      "Ci servirà per superare i posti di blocco in città.",
+      "Shh!",
+      "Questa è l'ultima spedizione di Eco.",
+      "Il Barone ha detto di prendere quei barili e portarli via.",
+      "Teste di Metallo in città?! E perché le Guardie gli stanno dando dell'Eco?"
+    ],
+    "intro-city-square": [
+      "Okay, okay lo giuro. Questa è l'ultima volta, ho detto l'ULTIMA, che tocco qualche stupidissima roba Precursor!",
+      "Eccolo. Muovetevi.",
+      "State lontani dall'animale!",
+      "AAGGHHHH!",
+      "Lascia stare il topo. Il Barone vuole solo lui!",
+      "Ti stavamo aspettando!",
+      "Tranquillo Jak! Ti salverò in un battibaleno!"
+    ],
+    "intro-vortex": [
+      "Che cos'era quello??",
+      "Non so! Cercate di tenervi!",
+      "AAAAAAAAAAAAAAAAHHHHHH!!!",
+      "Aiuto, voglio scendere!!!",
+      "AAAAAAAAAHHHHHH!!!",
+      "Trova te stesso, Jak!!!"
+    ],
+    "palace-boss-res": [
+      "I poteri oscuri che ti ho dato non ti proteggeranno per sempre!",
+      "Come ti ho fatto, così ti posso distruggere!",
+      "Ci rincontreremo presto!",
+      "Sì certo, come no. Ciao ciao!"
+    ],
+    "ruins-sacred-victory": [
+      "Ma quello... quello è... No, non può essere! Quello è...",
+      "Esatto! È il rifugio di Samos.",
+      "Cosa? Ma com'è possibile? Chi siamo? In che epoca? DOVE??",
+      "Siamo finiti nel futuro, Dax.",
+      "È così! Questo posto orribile... è proprio il nostro mondo."
+    ],
+    "ruins-tower-victory": [
+      "HA HAAA HA!",
+      "WOAAAAAAAAAAAAH!!",
+      "WOOO- OOOOH- ahah- AAAAAAAAAAAAAAH!",
+      "GNIIIAH!",
+      "Molto bene. Benvenuti nel mio club."
+    ],
+    "sewer-blow-up-statue-res": [
+      "Uuuh... che bella statua...",
+      "Indietro, siamo dei professionisti.",
+      "Va bene ragazzi, facciamo saltare questo ciccione!",
+      "Aspetta... chi vi ha detto di-  NO!",
+      "Eheheheh",
+      "Ecco quello che cercavamo: la Gemma del Cuore di Mar!",
+      "Grazie per la scorta, amico. La riporteremo a Krew!"
+    ],
+    "sewer-drain-res": [
+      "Eccola!",
+      "Woah, l'ho presa! Che cosa faresti senza di me, vero Dax?",
+      "Beh, penso che probabilmente non sarei alto mezzo metro, peloso e costretto a girare per le fogne senza neanche un paio di pantaloni.",
+      "Vi prego, datemi dei pantaloni!"
+    ],
+    "sewer-hosehead": [
+      "Che cos'è stato??",
+      "Mi pare di sentire un sibilo...",
+      "AGH! Qualcosa si muove sul soffitto!",
+      "Jak, Teste di Metallo ovunque!",
+      "È una trappola!"
+    ],
+    "tomb-boss-res": [
+      "Bella mossa, ma la pietra è ancora mia!",
+      "Non vi preoccupate, userò la pietra in tutto il suo potenziale!",
+      "E quelli che si oppongono a me verranno distrutti dal suo potere!"
+    ],
+    "tomb-spider-scare": [
+      "AAAAAAAAGHH!!!"
+    ],
+    "under-centipede-one": [
+      "Sparargli lo farà solo arrabbiare di più. SCAPPIAMO!"
+    ],
+    "under-centipede-three": [
+      "Perfetto! Quella bestiaccia sta venendo qui!",
+      "Battiamocela!"
     ]
   },
   "other": {

@@ -153,6 +153,17 @@
       "E cerca di farci restare vivi o non ti rivolgerò mai più la parola! Ovviamente.",
       "Fagli mangiare la polvere, Jak!"
     ],
+    "city-class-1-race-intro-b": [
+      "Io non voglio soltanto vincere, mio caro... voglio la tua testa!",
+      "Benvenuti, piloti!",
+      "Oggi il vostro sangue freddo darà spettacolo al nostro pubblico.",
+      "Se qualcuno dovesse, per caso, battere il nostro grande campione Erol,",
+      "avrà in premio un rifornimento di Eco per un mese,",
+      "e un tour del mio palazzo, per vedere come vivono i grandi.",
+      "Buona fortuna, e morite con coraggio!",
+      "Pronti?",
+      "Ai vostri posti!"
+    ],
     "city-class-1-race-res": [
       "Grazie, grazie mille a tutti! Smack! Io adoro il mio pubblico!",
       "Ah, un coraggioso uomo della strada. E chi sarebbe questo valido pilota?",
@@ -172,6 +183,50 @@
       "Sarò io il vincitore!",
       "Uaaargh!",
       "PRENDETELI!"
+    ],
+    "city-class-2-race-intro": [
+      "Chi si vede! Ecco qui il fenomeno dell'Eco Oscuro.",
+      "Dov'è Keira?",
+      "Non preoccuparti, ci penserò io a tenerla d'occhio.",
+      "Sei sulla bocca di tutta la città, Jak.",
+      "Stai dando speranza alla gente. Sei patetico!",
+      "Mi sarebbe piaciuto ucciderti in prigione, ma ora sarà più divertente farti fuori in pista, di fronte a tutta la città.",
+      "Potrò udire il ruggito della folla adesso, quando tutti vedranno morire le loro speranze!",
+      "È bello riaverti con me, papà!",
+      "Sì, è molto bello essere di nuovo libero.",
+      "Sai una cosa, Jak? Keira ama i vincitori, e un giorno sarà il mio meccanico.",
+      "Stai lontano da lei!",
+      "Mhmh ahahahahah",
+      "Ahhh. Erol è il miglior pilota che io abbia mai visto in vita mia.",
+      "Non è quello che pensi.",
+      "E TU saresti bravo a giudicare le persone?",
+      "AH! Ma guardati! La gente dice che adesso ti arrabbi... sei cambiato.",
+      "E poi il Jak che conoscevo io non avrebbe mai lavorato per un tipo come Krew!",
+      "Mi servono i suoi contatti per combattere il Barone!",
+      "Senza il mio- comunque... tu fai a modo tuo e io faccio a modo mio!",
+      "Ma quando le mura cadranno non venire a piangere da me!",
+      "Ehm, Jak, amico... eheh... dov'è che vai, socio? Jak? JAK!",
+      "Attenzione, a tutti i piloti: tra poco cominceranno le gare di Classe 2.",
+      "E ora cosa faremo?",
+      "Dovrai correre tu per la squadra, Daxter.",
+      "Abbiamo bisogno di vincere per qualificarci per il campionato finale!",
+      "Non sarà così difficile: basterà che mi tenga forte e punti verso il luogo dove voglio andare.",
+      "E poi c'è quell'altra cosa che mi fa andare più veloce. Veloce è bello!",
+      "Ok, posso farlo. Sono pronto per la gara!"
+    ],
+    "city-class-2-race-res": [
+      "Ragazze, ecco a voi il vincitore!",
+      "Ce l'hai fatta, Daxter!",
+      "Grazie a te ci siamo qualificati per la grande gara!",
+      "Ne dubitavi, forse? Sono stato in giro con Jak un sacco di tempo.",
+      "Ehi! Quand'è che arriva il mega-bacio per il vincitore?",
+      "Magari più tardi, ma solo se fai il bravo!",
+      "Ehilà! Abbiamo insegnato un paio di cosette a quei perdenti di Classe 2, eh?",
+      "Ho visto! Ti sei tenuto un po' troppo alto in curva, ma sei rimasto in sella tutto il tempo.",
+      "Sono fiero di te, Dax.",
+      "Dici davvero?",
+      "Sì, sei andato forte!",
+      "No! NOI siamo andati forte! Giusto, socio?"
     ],
     "city-defend-stadium-res": [
       "Su, su! Più veloce!",
@@ -204,12 +259,24 @@
       "Beh, prendete questo potenziamento per arma e andatevene! È l'ora del pisolino di bellezza.",
       "Un pisolino?! Umpf, dovresti dormire un secolo!"
     ],
+    "city-protect-slums-intro": [
+      "Essere questo pezzo di Sigillo, giusto?",
+      "Bello luccicante, eh? Eheh-eh",
+      "Tutto vostro?",
+      "Oh oh... credo che soldati rossi essere vicini!"
+    ],
     "city-whack-a-metal-intro": [
       "Ehi, ragazzi. Qualunque cosa Krew abbia messo in quella macchina... sembrava veramente agitato.",
       "Qualunque cosa fosse, a Krew non servirà più.",
       "Possiamo dire che... al momento non è più intero.",
       "Fatti da parte, Jak. Lascia che sia un vero giocatore a darsi da fare.",
       "Daxter, sei proprio... un grande animale!"
+    ],
+    "dig-find-totem-res": [
+      "No, scusa, Jak! Aspetta un momento!",
+      "Penso che questa volta tocchi a te andare a prenderlo.",
+      "Sta' attento, è pericoloso! Non farti male, Jak!",
+      "Sembra una maledizione, non trovi?"
     ],
     "ecowells-victory": [
       "WOW! Evvai! Evviva! HA HAAA-"
@@ -295,6 +362,64 @@
     "under-centipede-three": [
       "Perfetto! Quella bestiaccia sta venendo qui!",
       "Battiamocela!"
+    ],
+    "under-find-sig-res": [
+      "Ehi, ragazzone!",
+      "Portate qui le vostre chiappe e cominciate a sparare!",
+      "Gente, siamo nei guai!",
+      "Krew mi ha mandato ad aprire delle vecchie porte con la chiave di rubino che avete trovato,",
+      "io l'ho fatto e le Teste di Metallo sono venute fuori da alcuni passaggi nelle mura.",
+      "Come se mi stessero aspettando! Eccone una!",
+      "Krew è morto.",
+      "Sì? Beh, è fortunato!",
+      "Perché non gli sarebbe piaciuto che lo prendessi vivo!",
+      "Le Teste di Metallo devono aver promesso a Krew parecchio per fargli tradire la città.",
+      "Andiamo via di qui."
+    ],
+    "under-get-sig-out-res": [
+      "Andiamo, siamo quasi all'ascensore!",
+      "Sembra che li abbiamo seminati, eh ragazzi?",
+      "Liscio come l'olio, eh? Ora voi siete dei veri Cacciatori del Deserto!",
+      "Io dico che è venuta l'ora di affrontare il Capo delle Teste di Metallo!",
+      "Ah, che trofeo ne verrà fuori!",
+      "Rimetteremo in funzione la vecchia arma di Mar e BOOM!",
+      "Entriamo nel Nido e lasciamo cantare le armi.",
+      "Cribbio! Li faremo fuori tutti!",
+      "Io e voi! Spalla a spalla! Non ci potrà fermare nessu-",
+      "AAAAAAAGHHH!!",
+      "SIG!",
+      "SIG!",
+      "Okay, ehm... qual è il piano B?"
+    ],
+    "vin-rescue": [
+      "AAAGH! State indietro!!!",
+      "Fa' qualcosa, Jak! Questo è matto da legare!",
+      "Ehi, sei tu Vin?",
+      "Vogliamo aiutarti. Ci ha mandati Torn.",
+      "State indietro!",
+      "Ascolta, non siamo qui per ucciderti, altrimenti l'avremmo già fatto!",
+      "Ah, siete amici? Oh bene, grazie al cielo! Noi- Quindi- Dove... dove sono i nostri?",
+      "Ehm... sono davanti a te.",
+      "Che cosa?! Soltanto voi due?!",
+      "MA QUANTO CREDONO CHE VALGA QUELLI LÀ?!!",
+      "A dire la verità inizio a chiedermelo anch'io!",
+      "Senti, se vuoi puoi rimanere qui a fare da bersaglio,",
+      "però io e Daxter ce la battiamo prima che ritornino quei mostri."
+    ],
+    "vin-rescue-intro": [
+      "Una delle miniere del Barone è stata attaccata dalle Teste di Metallo.",
+      "Direi che non è un problema nostro.",
+      "È un problema nostro, dato che il caposquadra è uno dei nostri migliori informatori!",
+      "Si chiama Vin, è un tipo fedele e dev'essere salvato.",
+      "Trovate il Passaggio Temporale alla Centrale e usatelo per arrivare alla miniera,",
+      "in modo da salvare la patetica pellaccia di Vin.",
+      "Eehi, meraviglia tatuata, perché ci becchiamo sempre i compiti più schifosi?",
+      "Perché voi due NON. Mi piacete. Per niente!",
+      "Grazie... mi sembra giusto.",
+      "Qualsiasi accordo abbia fatto il Barone con le Teste di Metallo,",
+      "l'Eco della città sta quasi per finire e il suo tempo è quasi scaduto.",
+      "Se non rimettiamo il ragazzo sul trono al più presto,",
+      "temo che non ci sarà più alcuna città da difendere!"
     ]
   },
   "other": {
@@ -7432,7 +7557,7 @@
       "Spara di nuovo."
     ],
     "sigc080": [
-      "Ecco una mossa da cacciatore del deserto.",
+      "Ecco una mossa da Cacciatore del Deserto.",
       "Non sapranno nemmeno cosa li ha colpiti!"
     ],
     "sigc081": [

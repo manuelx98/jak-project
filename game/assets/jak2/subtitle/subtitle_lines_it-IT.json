@@ -241,17 +241,96 @@
       "La prossima faremo sul serio, e la tua testa sarà il mio trofeo!",
       "Ma smettila, sbruffone! Te le abbiamo suonate, altroché!"
     ],
+    "city-escort-kid-intro": [
+      "Sentite, voglio che voi scortiate quel bambino da Kor, giù alla Centrale.",
+      "Ho promesso di dargli un'occhiata e io al momento sono troppo impegnato per fare il babysitter.",
+      "Oh, ehm... e portate con voi anche Crocadog, il suo \"cane\"!",
+      "Oh- eh eh, che simpatica bestiola!",
+      "Che mi dici di questo bambino?",
+      "Quando l'ho trovato vagava per le strade.",
+      "Ma l'amuleto che ha al collo mi fa pensare che potrebbe essere l'erede che doveva governare la città.",
+      "Porta il bambino e la sua bestiaccia alla Centrale.",
+      "Fai attenzione alle guardie di pattuglia e difendi il bambino ad ogni costo.",
+      "Oh, ah- eh-ehm... e, se per caso ti capita di smarrire Crocadog, non importa!"
+    ],
     "city-get-dark-gun": [
       "Bene, ora abbiamo il nostro Peace Maker! Si balla, amico!"
     ],
     "city-get-hoverboard": [
       "WOW! Il Jet Board è nostro! Che bomba ragazzi!"
     ],
+    "city-help-kid-intro": [
+      "Salute a voi, stranieri! Io mi chiamo Kor.",
+      "Posso aiutarvi?",
+      "Hai l'aspetto di uno che sa molte cose, e io voglio delle informazioni!",
+      "Dove diavolo sono finito?",
+      "Ehm, devi scusarlo... cosa vuoi, lui... non sa cosa sia l'educazione.",
+      "Beh, mio giovane e irruente amico, sappi che... sei \"ospite\" di \"Sua Maestà\", il Barone Praxis.",
+      "Signore della \"gloriosa\" Haven City.",
+      "Già, sono appena stato \"ospite\" delle prigioni del Barone!",
+      "Che vuoi farci? Dentro una cella o in città, siamo comunque sempre circondati da mura.",
+      "Purtroppo siamo tutti suoi prigionieri.",
+      "Ah, a proposito di essere nel posto sbagliato al momento sbagliato,",
+      "io me andrei via se fossi in voi!",
+      "Per ordine di Sua Eminenza, Gran Protettore di Haven City, il Barone Praxis,",
+      "tutti i presenti sono in arresto con l'accusa di ospitare fuggiaschi dal Mondo Sotterraneo.",
+      "Arrendetevi o morirete!",
+      "Ehm, mi scusi, signore... lei non intende dire davvero \"ARRENDETEVI O MORIRETE!\"??",
+      "No, sta dicendo sul serio!",
+      "Difendici da queste guardie e ti presenterò qualcuno che ti potrà aiutare!"
+    ],
+    "city-help-kid-resolution": [
+      "È stato grandioso! Rifacciamolo!",
+      "Credo che... mi stia succedendo qualcosa...",
+      "È qualcosa che ha fatto... non riesco a controllarmi!",
+      "Oh... mi dispiace...",
+      "È... tutto okay, Jak?",
+      "Il vostro aiuto è stato fondamentale per noi!",
+      "Questo bambino è veramente importante.",
+      "Questo bambino? A me sembra un po' imbranato!",
+      "Siete in una zona proibita. Andatevene!",
+      "Grazie di tutto, amici. Adesso, però, devo cercare di portarlo in salvo.",
+      "Ehi! E cosa sarà di noi?",
+      "Un gruppo del Mondo Sotterraneo ha dichiarato guerra al Barone Praxis.",
+      "Al suo capo, l'Ombra, possono servire guerrieri come voi!",
+      "Andate nei Bassifondi, cercate un vicolo cieco, vicino alle mura della città.",
+      "Chiedete di Torn: lui vi aiuterà."
+    ],
+    "city-intercept-tanker-intro": [
+      "Ehi Cappuccetto Rosso, come va la vita?",
+      "Sgombrate subito quest'area, è di competenza delle Guardie Kremizi!",
+      "Uno dei cargo di Eco di Vin sta arrivando dal Deserto",
+      "ma il segnale di riconoscimento è un po' strano... il pilota è spaventato.",
+      "Gli daremo un'occhiata, almeno saremo tranquilli.",
+      "Vuoi una mano?",
+      "No, non serve!",
+      "Aaaghh! Un attacco a sopresa delle Teste di Metallo!",
+      "Dannazione! Tocca a noi adesso!",
+      "Datemi una mano a far fuori le Teste di Metallo!"
+    ],
     "city-intercept-tanker-res": [
       "Li abbiamo eliminati. Le Teste di Metallo diventano sempre più audaci.",
       "Sembra quasi stiano mettendo alla prova le nostre difese.",
       "Ho un brutto presentimento...",
       "E dire \"grazie\", magari?!"
+    ],
+    "city-keira-hover-challenge-intro": [
+      "Ehm... salve.",
+      "Krew mi ha detto che qualcuno qui sta cercando un pilota.",
+      "Adesso ho da fare.",
+      "Siete i nuovi fattorini di Krew, vero?",
+      "Sentite... non voglio essere scortese, siete stati veloci ad arrivare qui,",
+      "ma al momento io non sto cercando dei nuovi piloti,",
+      "e ho del lavoro da sbrigare!",
+      "C'è qualcosa che possiamo fare per aiutarla?",
+      "Ohhh...",
+      "No! Io, ehm... sto lavorando a un... ecco...",
+      "è un \"prototipo segreto\".",
+      "D'accordo, chiedo scusa!",
+      "Sentite, se pensate di avere del fegato per gareggiare in questa città,",
+      "provate il mio prototipo di Jet Board nel Circuito dello Stadio.",
+      "\"Jet Board\"...",
+      "Se vincerete la Sfida dello Stadio, vi prenderò in considerazione per la mia scuderia."
     ],
     "city-krew-collection-res": [
       "Mmh...",
@@ -277,7 +356,6 @@
     ],
     "city-oracle-level-2": [
       "Ora che hai il peso dell'oscurità sulle tue spalle, non potrai salvarci da solo.",
-      "",
       "La nostra speranza è in un essere non ancora toccato dal dolore",
       "e tu devi proteggere questa giovane anima nel momento della verità.",
       "Ti dono un altro Potere Oscuro."
@@ -437,6 +515,31 @@
       "AGH! Qualcosa si muove sul soffitto!",
       "Jak, Teste di Metallo ovunque!",
       "È una trappola!"
+    ],
+    "tomb-boss-intro": [
+      "Daxter, finalmente! Che ti è successo?",
+      "Ho avuto un'esperienza un po' difficile. E senza di te.",
+      "Benvenuto, giovane guerriero.",
+      "Molti eoni sono passati da quando la nostra speranza splendeva lucente.",
+      "Oggi hai dato prova di meritare l'eredità di Mar.",
+      "Sta parlando di me!",
+      "Grazie vostra Monumentalità, questa tomba non era difficile!",
+      "Ciò che stai per ricevere contiene enorme potere, e con esso una grave responsabilità.",
+      "Eoni fa i Precursor combatterono una guerra contro gli Hora-quan,",
+      "le creature malvagie che voi conoscete come \"Teste di Metallo\".",
+      "Guidate dal loro condottiero, le legioni delle Teste di Metallo distrussero la nostra civiltà",
+      "e ora spadroneggiano per l'universo alla ricerca delle ultime reliquie del nostro potere.",
+      "Mar ha nascosto la Pietra del Precursor in questa tomba per proteggerla.",
+      "È la nostra ultima speranza e TU sei stato scelto per tenerla in vita!",
+      "No, tu mi hai confuso con qualcun altro. Io voglio solo la Pietra!",
+      "È ora che il tuo destino si compia.",
+      "Osserva!",
+      "Wow! Piatto ricco...",
+      "Stolti! Mi avete portato dritto alla Pietra!",
+      "I vostri penosi amici del Mondo Sotterraneo non potevano certo tener testa alle mie guardie!",
+      "Ora conquisterò il potere che mi serve per distruggere i miei nemici!",
+      "E dopo aver preso la Pietra mi dedicherò a voi!",
+      "Essere abominevole! La Pietra del Precursor non spetta a te!"
     ],
     "tomb-boss-res": [
       "Bella mossa, ma la pietra è ancora mia!",

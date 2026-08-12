@@ -259,6 +259,37 @@
       "Beh, prendete questo potenziamento per arma e andatevene! È l'ora del pisolino di bellezza.",
       "Un pisolino?! Umpf, dovresti dormire un secolo!"
     ],
+    "city-oracle-intro": [
+      "I miei saluti, grande guerriero.",
+      "Percepisco dentro di te un oscuro senso di rabbia che in futuro ti distruggerà, portandoti alla pazzia.",
+      "Solo la forza dei Precursor può salvarti.",
+      "Distruggi i miei nemici, quelle creature che voi chiamate \"Teste di Metallo\".",
+      "Portami 25 Gemme del Teschio e ti insegnerò come controllare i tuoi poteri."
+    ],
+    "city-oracle-level-0": [
+      "Sei stato bravo a liberare il mondo da questa minaccia metallica.",
+      "Come premio, ti dono un po' di Potere Oscuro."
+    ],
+    "city-oracle-level-1": [
+      "Le Teste di Metallo ti hanno sempre temuto, giovane pieno di rabbia.",
+      "Il comandante delle Teste di Metallo ha capito che tu puoi distruggerlo e salvare la nostra razza.",
+      "Ora hai il controllo di un altro Potere Oscuro!"
+    ],
+    "city-oracle-level-2": [
+      "Ora che hai il peso dell'oscurità sulle tue spalle, non potrai salvarci da solo.",
+      "",
+      "La nostra speranza è in un essere non ancora toccato dal dolore",
+      "e tu devi proteggere questa giovane anima nel momento della verità.",
+      "Ti dono un altro Potere Oscuro."
+    ],
+    "city-oracle-level-3": [
+      "Le forze del male si stanno avvicinando.",
+      "Solo distruggendo il loro comandante conquisteremo la pace.",
+      "Potrai comprendere tutto,",
+      "dato che la fine porta alla nascita dell'inizio,",
+      "nel grande cerchio del tempo.",
+      "L'ultimo Potere Oscuro è tuo."
+    ],
     "city-protect-slums-intro": [
       "Essere questo pezzo di Sigillo, giusto?",
       "Bello luccicante, eh? Eheh-eh",
@@ -306,11 +337,56 @@
       "AAAAAAAAAHHHHHH!!!",
       "Trova te stesso, Jak!!!"
     ],
+    "mountain-gear-res": [
+      "Scommetto che è quello là!",
+      "Non vedranno neanche che manca quella cosuccia.",
+      "Come rubare caramelle a un bambino.",
+      "Nessuno saprà mai che siamo stati qui."
+    ],
     "palace-boss-res": [
       "I poteri oscuri che ti ho dato non ti proteggeranno per sempre!",
       "Come ti ho fatto, così ti posso distruggere!",
       "Ci rincontreremo presto!",
       "Sì certo, come no. Ciao ciao!"
+    ],
+    "palace-outside-window-res-b": [
+      "Bene! Abbiamo stanato il topo dalla sua tana...",
+      "Un topo con il suo caro amico!",
+      "Siete tornati per un altro trattamento di Eco Oscuro?",
+      "Ottimo! Così potrò mettere fine alle vostre misere vite!"
+    ],
+    "ruins-get-to-hut-res": [
+      "Quanti giorni ho passato a pulire questo posto per il vecchio Samos!",
+      "Veramente un bel lavoro, Jak e... Daxter, suppongo.",
+      "\"Daxter, suppongo.\"",
+      "Prima che attraversassimo il portale, tempo fa, mi occupavo di quel Seme della Vita, del Grande Albero.",
+      "Pare che le Teste di Metallo siano attratte dal suo potere.",
+      "Portate subito il Seme a Onin. Lei lo preparerà per Samos.",
+      "Vuoi- Vuoi dire per te?",
+      "No, l'ALTRO ME, Daxter!",
+      "Il giovane me ha bisogno del potere del Seme per diventare... più saggio.",
+      "Allora... fammi capire un attimo...",
+      "Possiamo dire che portando al tuo te più giovane il Seme della Vita, adesso,",
+      "noi lo aiuteremo a diventare il saggio che sei ora?",
+      "Ti avremmo aiutato a ottenere i tuoi poteri?",
+      "E TU NON CI HAI MAI RINGRAZIATO?!",
+      "Grazie Daxter... E ORA ANDATE!"
+    ],
+    "ruins-sacred-intro": [
+      "Ci segnalano del movimento nella Città Morta.",
+      "Alcune creature vanno verso il Luogo Sacro, proprio come un tempo.",
+      "E che cosa è accaduto a quel tempo?",
+      "Le Teste di Metallo hanno aperto una breccia nelle mura.",
+      "Ci siamo difesi, ma poi il Barone si è ritirato,",
+      "lasciando morire quelli che erano oltre la \"nuova barriera\".",
+      "Solo l'Ombra è rimasto ed è riuscito a fermare l'attacco.",
+      "E ora ti aspetti che noi andiamo di nuovo là fuori?",
+      "Vedo che capisci al volo!",
+      "Se impedirete alle Teste di Metallo di raggiungere il Luogo Sacro, credo che l'Ombra vi sarà... molto riconoscente.",
+      "Potrebbe anche chiedervi un incontro.",
+      "Ehi! Probabilmente è del tutto sprecata,",
+      "ma vi do una Canna da Vulcan per il vostro spara-piselli.",
+      "Tenetevela stretta, ne avrete bisogno!"
     ],
     "ruins-sacred-victory": [
       "Ma quello... quello è... No, non può essere! Quello è...",
@@ -318,6 +394,20 @@
       "Cosa? Ma com'è possibile? Chi siamo? In che epoca? DOVE??",
       "Siamo finiti nel futuro, Dax.",
       "È così! Questo posto orribile... è proprio il nostro mondo."
+    ],
+    "ruins-tower-intro": [
+      "Stiamo cercando un certo Torn. Ci ha mandati Kor.",
+      "Per caso, sei tu... Torn?",
+      "Forse questo tizio è muto, proprio com'eri tu prima!",
+      "Le facce nuove mi rendono molto nervoso.",
+      "Si dice che voi vogliate tuffarvi nella battaglia per la città.",
+      "Vi avverto: fate attenzione a scegliere con chi schierarvi... potrebbe essere poco salutare!",
+      "Noi vogliamo vedere l'Ombra.",
+      "Ah ah ah! Potete scordarvelo!",
+      "Se proprio volete fare qualcosa, perché tu e il tuo animaletto non provate a entrare nel circo?",
+      "A meno che non abbiate la stoffa per qualcosa di veramente difficile...",
+      "Rubate la bandiera del Barone dalla cima della Torre Pericolante",
+      "e poi, forse, potremo parlarne."
     ],
     "ruins-tower-victory": [
       "HA HAAA HA!",
@@ -352,6 +442,31 @@
       "Bella mossa, ma la pietra è ancora mia!",
       "Non vi preoccupate, userò la pietra in tutto il suo potenziale!",
       "E quelli che si oppongono a me verranno distrutti dal suo potere!"
+    ],
+    "tomb-face-tests-intro": [
+      "Ce l'hai fatta, Jak!",
+      "Sei riuscito a trovare la Tomba di Mar!",
+      "Bene. E adesso? Mandiamo questo povero bambino al macello?!",
+      "Questo è il giorno che ho aspettato da sempre.",
+      "Avrò finalmente la mitica Pietra del Precursor... fra le mie mani.",
+      "Devi stare attento, piccolo mio: le Prove di Coraggio sono piene di insidie",
+      "e l'erede di Mar deve... affrontarle da solo.",
+      "È tutto okay, amico! Puoi farcela.",
+      "È soltanto una tomba buia \"sicuramente-piena-di-trabocchetti-preparati-per-ucciderti\".",
+      "Io non ci entrerei.",
+      "Benvenuto, erede di Mar.",
+      "Finalmente il prescelto è di fronte a me.",
+      "Entra e dimostra di essere degno dell'antico diritto di primogenitura.",
+      "NO!",
+      "Lui è troppo giovane per affrontare le Prove.",
+      "Cosa?! No!",
+      "Fa' qualcosa, Jak!",
+      "Jak, è \"sicuramente-piena-di-trabocchetti-preparati-per-ucciderti\"!",
+      "YAAAAAAHHH!!",
+      "Santo cielo, è andato ad affrontare le Prove?!",
+      "No, è andato verso la morte!",
+      "FERMO!",
+      "Uh?"
     ],
     "tomb-spider-scare": [
       "AAAAAAAAGHH!!!"

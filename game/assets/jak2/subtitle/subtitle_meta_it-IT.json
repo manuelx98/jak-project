@@ -2064,6 +2064,115 @@
         }
       ]
     },
+    "city-keira-hover-challenge-res": {
+      "lines": [
+        {
+          "frame_end": 119,
+          "frame_start": 71,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "jak"
+        },
+        {
+          "frame_end": 186,
+          "frame_start": 119,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "keira-before-class-3"
+        },
+        {
+          "frame_end": 321,
+          "frame_start": 193,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "keira-before-class-3"
+        },
+        {
+          "frame_end": 373,
+          "frame_start": 335,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "jak"
+        },
+        {
+          "frame_end": 437,
+          "frame_start": 367,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "keira-before-class-3"
+        },
+        {
+          "frame_end": 473,
+          "frame_start": 437,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "keira-before-class-3"
+        },
+        {
+          "frame_end": 552,
+          "frame_start": 499,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "jak"
+        },
+        {
+          "frame_end": 631,
+          "frame_start": 563,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "jak"
+        },
+        {
+          "frame_end": 689,
+          "frame_start": 646,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "keira-before-class-3"
+        },
+        {
+          "frame_end": 742,
+          "frame_start": 692,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "jak"
+        },
+        {
+          "frame_end": 816,
+          "frame_start": 757,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "keira-before-class-3"
+        },
+        {
+          "frame_end": 884,
+          "frame_start": 814,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "jak"
+        },
+        {
+          "frame_end": 986,
+          "frame_start": 893,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "keira-before-class-3"
+        },
+        {
+          "frame_end": 1112,
+          "frame_start": 997,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "keira-before-class-3"
+        },
+        {
+          "frame_end": 1267,
+          "frame_start": 1124,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "keira-before-class-3"
+        }
+      ]
+    },
     "city-krew-collection-res": {
       "lines": [
         {
@@ -2093,6 +2202,59 @@
           "merge": false,
           "offscreen": false,
           "speaker": "daxter"
+        }
+      ]
+    },
+    "city-meet-brutter-res": {
+      "lines": [
+        {
+          "frame_end": 133,
+          "frame_start": 90,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "brutter"
+        },
+        {
+          "frame_end": 228,
+          "frame_start": 138,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "brutter"
+        },
+        {
+          "frame_end": 306,
+          "frame_start": 231,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "brutter"
+        },
+        {
+          "frame_end": 379,
+          "frame_start": 311,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "daxter"
+        },
+        {
+          "frame_end": 463,
+          "frame_start": 379,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "daxter"
+        },
+        {
+          "frame_end": 499,
+          "frame_start": 470,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "brutter"
+        },
+        {
+          "frame_end": 630,
+          "frame_start": 511,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "brutter"
         }
       ]
     },
@@ -2288,6 +2450,87 @@
         }
       ]
     },
+    "city-stop-bomb-bots-intro": {
+      "lines": [
+        {
+          "frame_end": 116,
+          "frame_start": 46,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "samos"
+        },
+        {
+          "frame_end": 285,
+          "frame_start": 134,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "youngsamos"
+        },
+        {
+          "frame_end": 361,
+          "frame_start": 289,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "samos"
+        },
+        {
+          "frame_end": 470,
+          "frame_start": 366,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "samos"
+        },
+        {
+          "frame_end": 585,
+          "frame_start": 473,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "youngsamos"
+        },
+        {
+          "frame_end": 729,
+          "frame_start": 591,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "samos"
+        },
+        {
+          "frame_end": 730,
+          "frame_start": 665,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "youngsamos"
+        },
+        {
+          "frame_end": 833,
+          "frame_start": 747,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "youngsamos"
+        },
+        {
+          "frame_end": 926,
+          "frame_start": 835,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "youngsamos"
+        },
+        {
+          "frame_end": 978,
+          "frame_start": 943,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "samos"
+        },
+        {
+          "frame_end": 978,
+          "frame_start": 943,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "youngsamos"
+        }
+      ]
+    },
     "city-whack-a-metal-intro": {
       "lines": [
         {
@@ -2370,6 +2613,101 @@
         }
       ]
     },
+    "fortress-2-intro": {
+      "lines": [
+        {
+          "frame_end": 228,
+          "frame_start": 132,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "torn"
+        },
+        {
+          "frame_end": 352,
+          "frame_start": 239,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "torn"
+        },
+        {
+          "frame_end": 477,
+          "frame_start": 355,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "jak"
+        },
+        {
+          "frame_end": 599,
+          "frame_start": 488,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "jak"
+        },
+        {
+          "frame_end": 723,
+          "frame_start": 610,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "torn"
+        },
+        {
+          "frame_end": 809,
+          "frame_start": 737,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "torn"
+        },
+        {
+          "frame_end": 936,
+          "frame_start": 809,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "torn"
+        },
+        {
+          "frame_end": 1031,
+          "frame_start": 937,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "torn"
+        },
+        {
+          "frame_end": 1193,
+          "frame_start": 1031,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "torn"
+        },
+        {
+          "frame_end": 1319,
+          "frame_start": 1218,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "torn"
+        },
+        {
+          "frame_end": 1409,
+          "frame_start": 1319,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "daxter"
+        },
+        {
+          "frame_end": 1469,
+          "frame_start": 1410,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "daxter"
+        },
+        {
+          "frame_end": 1606,
+          "frame_start": 1473,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "jak"
+        }
+      ]
+    },
     "fortress-blow-up-ammo-res-a": {
       "lines": [
         {
@@ -2410,6 +2748,126 @@
         {
           "frame_end": 871,
           "frame_start": 754,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "jak"
+        }
+      ]
+    },
+    "fortress-blow-up-ammo-res-b": {
+      "lines": [
+        {
+          "frame_end": 437,
+          "frame_start": 401,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "daxter"
+        },
+        {
+          "frame_end": 495,
+          "frame_start": 432,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "jak"
+        },
+        {
+          "frame_end": 774,
+          "frame_start": 663,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "daxter"
+        },
+        {
+          "frame_end": 820,
+          "frame_start": 774,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "daxter"
+        }
+      ]
+    },
+    "fortress-save-friends-intro-a": {
+      "lines": [
+        {
+          "frame_end": 115,
+          "frame_start": 37,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "jak"
+        },
+        {
+          "frame_end": 172,
+          "frame_start": 145,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "torn"
+        },
+        {
+          "frame_end": 221,
+          "frame_start": 199,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "jak"
+        },
+        {
+          "frame_end": 338,
+          "frame_start": 223,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "torn"
+        },
+        {
+          "frame_end": 427,
+          "frame_start": 350,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "torn"
+        },
+        {
+          "frame_end": 629,
+          "frame_start": 433,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "daxter"
+        },
+        {
+          "frame_end": 776,
+          "frame_start": 655,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "torn"
+        },
+        {
+          "frame_end": 872,
+          "frame_start": 784,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "torn"
+        },
+        {
+          "frame_end": 921,
+          "frame_start": 870,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "jak"
+        },
+        {
+          "frame_end": 1017,
+          "frame_start": 921,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "torn"
+        },
+        {
+          "frame_end": 1160,
+          "frame_start": 1044,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "torn"
+        },
+        {
+          "frame_end": 1250,
+          "frame_start": 1167,
           "merge": false,
           "offscreen": false,
           "speaker": "jak"

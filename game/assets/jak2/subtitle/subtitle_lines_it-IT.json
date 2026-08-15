@@ -332,11 +332,37 @@
       "\"Jet Board\"...",
       "Se vincerete la Sfida dello Stadio, vi prenderò in considerazione per la mia scuderia."
     ],
+    "city-keira-hover-challenge-res": [
+      "Abbiamo vinto la Sfida dello Stadio.",
+      "Ottimo. La gente a volte ha fortuna.",
+      "Sentite, non c'è più nessuno da cui andare a raccogliere crediti, picchiare, o cose del genere?",
+      "Noi non ti piacciamo, vero?",
+      "Lavorate per quella palla di sudidiume di Krew.",
+      "Cosa c'è di bello?",
+      "Sembra che tu abbia vinto un po' di gare.",
+      "È vero che il campione della città può visitare il Palazzo?",
+      "Sì, è così. Perché?",
+      "Perché forse tu puoi farmi entrare!",
+      "Vuoi fare una visita di piacere, giusto?",
+      "Già, sono un \"grandissimo fan\" del Barone.",
+      "Okay, vi aiuterò, a patto che la piantiate di seccarmi.",
+      "Ho visto un vecchio ascensore di manutenzione alla base di una delle torri di supporto.",
+      "Quell'ascensore vi porterà dentro il Palazzo, a condizione che troviate un modo per dargli energia."
+    ],
     "city-krew-collection-res": [
       "Mmh...",
       "Recupero crediti, eh?",
       "Beh, prendete questo potenziamento per arma e andatevene! È l'ora del pisolino di bellezza.",
       "Un pisolino?! Umpf, dovresti dormire un secolo!"
+    ],
+    "city-meet-brutter-res": [
+      "Piccolo guerriero arancione!",
+      "Tu fatto veramente molto per Brutter e popolo di Nascosti!",
+      "MUAH! MUAH! MUAH! MUAH!",
+      "AH! PUAH! PUAH! AH PAH!",
+      "Aaah, insomma sta' attento! Mi spettini.",
+      "Oh, scusa!",
+      "Voi grandi! Brutter non dimentica. Brutter voi ripaga! È sicuro!"
     ],
     "city-oracle-intro": [
       "I miei saluti, grande guerriero.",
@@ -374,6 +400,19 @@
       "Tutto vostro?",
       "Oh oh... credo che soldati rossi essere vicini!"
     ],
+    "city-stop-bomb-bots-intro": [
+      "Il Barone continua a fare i soliti trucchetti!",
+      "Già, abbiamo saputo che molti Bot Esplosivi Kremizi stanno per raggiungere il nostro nascondiglio.",
+      "Sono ordigni corazzati che inseguono il bersaglio.",
+      "Se uno di quei Bot Esplosivi arrivasse fin qui, moriremmo tutti!",
+      "E a te che importa di morire, sei già vecchio! Guardati, hai un piede nella fossa.",
+      "Beh, se tu ti fossi preso più cura di te stesso, adesso io non mi troverei in queste condizioni!",
+      "Bla, bla, bla, bla, bla, blaaa",
+      "Elimina i Bot Esplosivi prima che raggiungano il nascondiglio.",
+      "Hanno delle difese di prossimità, quindi fai attenzione, Jak!",
+      "Buona caccia!",
+      "Buona caccia!"
+    ],
     "city-whack-a-metal-intro": [
       "Ehi, ragazzi. Qualunque cosa Krew abbia messo in quella macchina... sembrava veramente agitato.",
       "Qualunque cosa fosse, a Krew non servirà più.",
@@ -390,6 +429,21 @@
     "ecowells-victory": [
       "WOW! Evvai! Evviva! HA HAAA-"
     ],
+    "fortress-2-intro": [
+      "L'acqua dei Bassifondi è tornata normale.",
+      "Mi piacerebbe vedere quante teste cadranno quando lo scoprirà il Barone!",
+      "Già. Sono sicuro che perderà parecchio tempo per questa \"fogna\" di città!",
+      "Ora devi farci vedere l'Ombra, visto che abbiamo fatto quello che volevi tu!",
+      "Ve la farò vedere... solo quando lo deciderò io!",
+      "Ma prima di cominciare a pensare a questo,",
+      "voglio che vi occupiate di un deposito di munizioni che abbiamo localizzato nella Fortezza.",
+      "Ci sono un sacco di Guardie Kremizi e la sorveglianza è continua.",
+      "Ma è molto vulnerabile e il Mondo Sotterraneo ha bisogno che VOI facciate saltare tutto l'arsenale.",
+      "Se riuscirete a farlo, il Barone sanguinerà veramente.",
+      "Aaah, tu sei un gran duro, però... ci mandi noi là dentro!",
+      "Cos'è tutta questa storia del \"sanguinare davvero\"?",
+      "Lascia perdere! Voglio che al Barone sia chiaro che SONO IO che gli faccio del male."
+    ],
     "fortress-blow-up-ammo-res-a": [
       "Wow, è un lasciapassare!",
       "Ci servirà per superare i posti di blocco in città.",
@@ -397,6 +451,26 @@
       "Questa è l'ultima spedizione di Eco.",
       "Il Barone ha detto di prendere quei barili e portarli via.",
       "Teste di Metallo in città?! E perché le Guardie gli stanno dando dell'Eco?"
+    ],
+    "fortress-blow-up-ammo-res-b": [
+      "Ah- AAAAAAAHHH!",
+      "OUH! WOOAAAAHHH!",
+      "Sai una cosa? Qui la vita è diventata un po' troppo... frenetica.",
+      "Dobbiamo trasferirci in campagna!"
+    ],
+    "fortress-save-friends-intro-a": [
+      "Come ha fatto il Barone a sapere che eravamo così vicini alla Pietra?",
+      "È colpa mia.",
+      "Cosa...?!",
+      "Il Barone voleva uccidere Ashelin per aver fatto la spia. Sua figlia, capisci?",
+      "Non potevo rischiare. Neanche per il Mondo Sotterraneo.",
+      "Già... gran bella pensata. Solo che adesso Praxis ha la Pietra del Precursor, e può fare tutto quello che vuole!",
+      "C'è un solo modo per salvare i nostri amici e recuperare la Pietra del Precursor.",
+      "Devo trovare Vin. Voi andate alla Fortezza, poi vedremo.",
+      "E perché mai dovremmo credere a te!?",
+      "Perché sappiamo entrambi che il Barone avrebbe ucciso anche Ashelin!",
+      "Sarà una battaglia durissima, nella Fortezza. Una missione suicida.",
+      "Tu pensa ad aprire quella porta! Io sarò lì."
     ],
     "intro-city-square": [
       "Okay, okay lo giuro. Questa è l'ultima volta, ho detto l'ULTIMA, che tocco qualche stupidissima roba Precursor!",

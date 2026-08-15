@@ -2613,6 +2613,242 @@
         }
       ]
     },
+    "forest-hunt-camo-metal-heads-intro": {
+      "lines": [
+        {
+          "frame_end": 188,
+          "frame_start": 38,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "daxter"
+        },
+        {
+          "frame_end": 295,
+          "frame_start": 197,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "daxter"
+        },
+        {
+          "frame_end": 365,
+          "frame_start": 298,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "daxter"
+        },
+        {
+          "frame_end": 449,
+          "frame_start": 374,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "daxter"
+        },
+        {
+          "frame_end": 516,
+          "frame_start": 452,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "daxter"
+        },
+        {
+          "frame_end": 647,
+          "frame_start": 527,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "daxter"
+        },
+        {
+          "frame_end": 719,
+          "frame_start": 647,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "daxter"
+        },
+        {
+          "frame_end": 856,
+          "frame_start": 734,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "daxter"
+        },
+        {
+          "frame_end": 951,
+          "frame_start": 859,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "tess"
+        },
+        {
+          "frame_end": 1008,
+          "frame_start": 951,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "daxter"
+        },
+        {
+          "frame_end": 1078,
+          "frame_start": 1019,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "sig"
+        },
+        {
+          "frame_end": 1203,
+          "frame_start": 1090,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "sig"
+        },
+        {
+          "frame_end": 1312,
+          "frame_start": 1211,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "sig"
+        },
+        {
+          "frame_end": 1509,
+          "frame_start": 1319,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "sig"
+        },
+        {
+          "frame_end": 1579,
+          "frame_start": 1524,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "sig"
+        }
+      ]
+    },
+    "forest-protect-samos-intro-b": {
+      "lines": [
+        {
+          "frame_end": 236,
+          "frame_start": 65,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "jak"
+        },
+        {
+          "frame_end": 290,
+          "frame_start": 240,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "jak"
+        },
+        {
+          "frame_end": 396,
+          "frame_start": 303,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "youngsamos"
+        },
+        {
+          "frame_end": 432,
+          "frame_start": 410,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "guard"
+        },
+        {
+          "frame_end": 480,
+          "frame_start": 441,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "guard"
+        },
+        {
+          "frame_end": 510,
+          "frame_start": 489,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "guard"
+        },
+        {
+          "frame_end": 569,
+          "frame_start": 519,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "youngsamos"
+        },
+        {
+          "frame_end": 662,
+          "frame_start": 573,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "youngsamos"
+        }
+      ]
+    },
+    "forest-protect-samos-res": {
+      "lines": [
+        {
+          "frame_end": 114,
+          "frame_start": 32,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "youngsamos"
+        },
+        {
+          "frame_end": 230,
+          "frame_start": 126,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "youngsamos"
+        },
+        {
+          "frame_end": 299,
+          "frame_start": 238,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "youngsamos"
+        },
+        {
+          "frame_end": 454,
+          "frame_start": 306,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "youngsamos"
+        },
+        {
+          "frame_end": 524,
+          "frame_start": 459,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "youngsamos"
+        },
+        {
+          "frame_end": 587,
+          "frame_start": 541,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "youngsamos"
+        },
+        {
+          "frame_end": 682,
+          "frame_start": 596,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "youngsamos"
+        },
+        {
+          "frame_end": 749,
+          "frame_start": 690,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "youngsamos"
+        },
+        {
+          "frame_end": 813,
+          "frame_start": 757,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "youngsamos"
+        }
+      ]
+    },
     "fortress-2-intro": {
       "lines": [
         {
@@ -2868,6 +3104,150 @@
         {
           "frame_end": 1250,
           "frame_start": 1167,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "jak"
+        }
+      ]
+    },
+    "fortress-save-friends-res": {
+      "lines": [
+        {
+          "frame_end": 411,
+          "frame_start": 292,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "daxter"
+        },
+        {
+          "frame_end": 489,
+          "frame_start": 421,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "daxter"
+        },
+        {
+          "frame_end": 578,
+          "frame_start": 500,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "tess"
+        },
+        {
+          "frame_end": 623,
+          "frame_start": 569,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "jak"
+        },
+        {
+          "frame_end": 702,
+          "frame_start": 642,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "samos"
+        },
+        {
+          "frame_end": 833,
+          "frame_start": 716,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "samos"
+        },
+        {
+          "frame_end": 945,
+          "frame_start": 840,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "samos"
+        },
+        {
+          "frame_end": 1036,
+          "frame_start": 958,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "daxter"
+        },
+        {
+          "frame_end": 1081,
+          "frame_start": 1036,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "daxter"
+        },
+        {
+          "frame_end": 1196,
+          "frame_start": 1093,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "youngsamos"
+        },
+        {
+          "frame_end": 1338,
+          "frame_start": 1198,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "youngsamos"
+        },
+        {
+          "frame_end": 1458,
+          "frame_start": 1338,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "daxter"
+        },
+        {
+          "frame_end": 1537,
+          "frame_start": 1467,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "samos"
+        },
+        {
+          "frame_end": 1655,
+          "frame_start": 1537,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "youngsamos"
+        },
+        {
+          "frame_end": 1750,
+          "frame_start": 1662,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "youngsamos"
+        },
+        {
+          "frame_end": 1850,
+          "frame_start": 1769,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "samos"
+        },
+        {
+          "frame_end": 2052,
+          "frame_start": 1860,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "samos"
+        },
+        {
+          "frame_end": 2251,
+          "frame_start": 2060,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "youngsamos"
+        },
+        {
+          "frame_end": 2294,
+          "frame_start": 2241,
+          "merge": false,
+          "offscreen": false,
+          "speaker": "daxter"
+        },
+        {
+          "frame_end": 2380,
+          "frame_start": 2293,
           "merge": false,
           "offscreen": false,
           "speaker": "jak"

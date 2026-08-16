@@ -6,10 +6,10 @@
       "Mhmhmh... ahahah...",
       "Il Barone ha dirottato tutta l'acqua nei Bassifondi.",
       "A lui non importa sacrificare vite innocenti pur di distruggere il Mondo Sotterraneo.",
-      "E la cosa non mi sorprende, perché ho già visto di cosa è capace quando ero nelle guardie Kremizi. Per questo me ne sono andato.",
-      "Tu eri una delle guardie Kremizi?",
+      "E la cosa non mi sorprende, perché ho già visto di cosa è capace quando ero nelle Guardie Kremizi. Per questo me ne sono andato.",
+      "Tu eri una delle Guardie Kremizi?",
       "Eh, ma certo, ora mi spiego il tuo \"grande\" senso dell'umorismo...",
-      "Il mio contatto nella guardia mi ha riferito che la chiusa centrale dell'acqua si trova all'esterno della città, alla Stazione di Pompaggio.",
+      "Il mio contatto nella Guardia mi ha riferito che la chiusa centrale dell'acqua si trova all'esterno della città, alla Stazione di Pompaggio.",
       "Fuori città, hai detto? E come facciamo a superare le mura?",
       "E poi ci sono le Teste di Metallo. Lo sapete che là fuori è un manicomio. Ci lasceremmo le penne tutti quanti!",
       "Trovate il grosso condotto di drenaggio nel muro a Nord.",
@@ -17,7 +17,7 @@
       "Trovata la chiusa centrale, apritela.",
       "Se sopravviverete, i Bassifondi saranno in debito con voi.",
       "Altrimenti, faranno una commovente cerimonia alla vostra memoria.",
-      "HA, vorrei fargliene una io di \"cerimonia\", a quelli!"
+      "HA! Vorrei fargliene una io di \"cerimonia\", a quelli!"
     ],
     "atoll-1-res": [
       "Oh bene, ecco la chiusa. Ci penso io.",
@@ -235,6 +235,40 @@
       "A presto, Jak! Sta' attento!",
       "Sì Jak, \"stai attento\"!"
     ],
+    "city-destroy-guard-vehicles-intro": [
+      "Il Barone ci sta andando giù molto pesante.",
+      "Qualunque cosa abbiate fatto, avete provocato la sua rabbia!",
+      "E questo è solo l'inizio.",
+      "Ha fatto arrivare gli Incrociatori Hellcat delle Guardie Kremizi e le strade sono un inferno, nel Mondo Sotterraneo.",
+      "In settimana abbiamo perso cinque uomini!",
+      "I tuoi \"uomini\" dovrebbero cercare di cavarsela da soli...",
+      "Ma non mi dispiacerebbe far saltare un paio di Incrociatori, se è quello che vuoi.",
+      "\"Mai parte di una grande causa\", eh Jak?",
+      "Bene, prenderò tutto l'aiuto che mi potrai fornire.",
+      "Abbatti tutti e cinque gli Incrociatori Hellcat: questo sarà un buon messaggio per il Barone."
+    ],
+    "city-errol-challenge-intro": [
+      "Ehi! Torna a lavorare, tesoro.",
+      "Sta già lavorando, ciccione! Oh, che noioso.",
+      "Attento a te o sarai il prossimo trofeo che adornerà queste pareti!",
+      "Jak, voglio che tu rinunci alla vittoria nel campionato. Basterà che lasci vincere Erol.",
+      "Hai scommesso contro di noi?!",
+      "Jak, Jak... sono soltanto affari.",
+      "Sei diventato un simbolo per tutti i cittadini. Scommetteranno tutto ciò che hanno.",
+      "Quale occasione migliore per fare soldi?",
+      "Che ne dici, ragazzo mio?",
+      "Dico che perderai un sacco di soldi.",
+      "Perché io ho intenzione di gareggiare, e anche di vincere!",
+      "Aaaargh! Tu, piccolo...",
+      "Stai cominciando a costarmi più di quanto tu non valga.",
+      "Io non me ne starei troppo tranquillo se fossi in te. Tutti sono sacrificabili.",
+      "Hai fretta di morire?",
+      "Non devi attendere la grande gara.",
+      "Possiamo sistemare la cosa subito: uno contro uno, in città. Basta usare gli anelli acceleratori.",
+      "Colpisci ogni anello dall'inizio alla fine. Mancane uno solo ed è finita.",
+      "Keira è già dell'idea che tu sia un perdente, e io ora glielo proverò. Una volta per tutte!",
+      "Come vuoi!"
+    ],
     "city-errol-challenge-res": [
       "HA HA! hehe",
       "Argh! Non ti montare la testa, criminale!",
@@ -250,7 +284,7 @@
       "Quando l'ho trovato vagava per le strade.",
       "Ma l'amuleto che ha al collo mi fa pensare che potrebbe essere l'erede che doveva governare la città.",
       "Porta il bambino e la sua bestiaccia alla Centrale.",
-      "Fai attenzione alle guardie di pattuglia e difendi il bambino ad ogni costo.",
+      "Fai attenzione alle Guardie di pattuglia e difendi il bambino ad ogni costo.",
       "Oh, ah- eh-ehm... e, se per caso ti capita di smarrire Crocadog, non importa!"
     ],
     "city-get-dark-gun": [
@@ -277,7 +311,7 @@
       "Arrendetevi o morirete!",
       "Ehm, mi scusi, signore... lei non intende dire davvero \"ARRENDETEVI O MORIRETE!\"??",
       "No, sta dicendo sul serio!",
-      "Difendici da queste guardie e ti presenterò qualcuno che ti potrà aiutare!"
+      "Difendici da queste Guardie e ti presenterò qualcuno che ti potrà aiutare!"
     ],
     "city-help-kid-resolution": [
       "È stato grandioso! Rifacciamolo!",
@@ -313,6 +347,28 @@
       "Sembra quasi stiano mettendo alla prova le nostre difese.",
       "Ho un brutto presentimento...",
       "E dire \"grazie\", magari?!"
+    ],
+    "city-keira-delivery-intro": [
+      "Ho una proposta da farti, caro Jak.",
+      "Le corse sono lo sport più seguito della città. Erol è il campione incontrastato.",
+      "È del tutto pazzo ed è pericoloso in pista, ahahahah. Già proprio il mio tipo.",
+      "Solo un PAZZO oserebbe gareggiare contro di lui.",
+      "E a questo punto entrate in scena voi.",
+      "Un mio cliente sta cercando un pilota molto veloce per la sua scuderia.",
+      "Questo è un pass di sicurezza che vi farà accedere alla sezione dello Stadio.",
+      "Ah, e il vostro contratto con solo qualche briciola che terrò per me.",
+      "Ecco, l'ho già... firmato io per voi, così risparmiate tempo. Mmmmh",
+      "\"Noi sottoscritti piloti accettiamo di cedere a Krew tutti i guadagni delle gare, diritti di trasmissione, residui sindacali, frutti di sponsorizzazione,",
+      "ricavi di apparizioni in centri commerciali, presenza su carte collezionabili, proventi da fast food, diritti di utilizzo,",
+      "contratti per talk show, linee di vestiario e tutti i diritti di stampa, compresi libri, romanzi, fumetti, brochure...",
+      "diritti per giocattoli, diritti di sfruttamento ludico... DIRITTI DI GIOCO!?",
+      "Sfruttamento di vitamine, diritti cinematografici e soprattutto",
+      "qualunque pretesa in seguito a circostanze di morte o smembramento accidentale.\"?",
+      "Eheheheheheh... possiamo sistemare questi insignificanti dettagli più tardi, d'accordo?",
+      "Se da qui riuscirete a raggiungere il Garage di Gara, vicino allo Stadio, in meno di 3 minuti",
+      "il mio cliente dice che potrebbe prendervi in considerazione per la sua scuderia.",
+      "Eheheheh...",
+      "Rendetemi orgoglioso! Mmmmh."
     ],
     "city-keira-hover-challenge-intro": [
       "Ehm... salve.",
@@ -355,6 +411,24 @@
       "Beh, prendete questo potenziamento per arma e andatevene! È l'ora del pisolino di bellezza.",
       "Un pisolino?! Umpf, dovresti dormire un secolo!"
     ],
+    "city-krew-delivery-intro": [
+      "Ehilà, amico! Il \"Duo Demolitore\" è tornato!",
+      "Un deposito di munizioni ben cotto... al nostro tavolo!",
+      "Incendiando il deposito abbiamo visto qualcosa di strano.",
+      "Le Guardie del Barone stavano consegnando barili di Eco a un gruppo di Teste di Metallo.",
+      "Ah, veramente?!",
+      "Bene, questa notizia farà molto piacere all'Ombra.",
+      "Senti, non c'è qualcosa di più impegnativo? Finora è stato un gioco! Come rubare l'erba a uno Yakow addormentato.",
+      "Eheheheh... Tu e il topo volete darmi una prova del vostro valore?",
+      "Allora sentite: uno dei nostri fornitori dev'essere pagato. C'è una borsa di Eco per lui.",
+      "Prendete lo Zoomer che è parcheggiato qui fuori e andate all'HipHog Heaven Saloon a South Town.",
+      "Chiedete di Krew: lui sarà là.",
+      "E ricordate: non fatevi fermare dalle pattuglie del Barone!",
+      "Mentre siete là, cercate anche di estorcere informazioni a Krew.",
+      "Lui sa tutto quello che accade in città e potrebbe dirvi cosa sta facendo il Barone.",
+      "Certo, amico. Conta pure su di noi!",
+      "Beh? Siete ancora qui?"
+    ],
     "city-meet-brutter-res": [
       "Piccolo guerriero arancione!",
       "Tu fatto veramente molto per Brutter e popolo di Nascosti!",
@@ -394,6 +468,28 @@
       "nel grande cerchio del tempo.",
       "L'ultimo Potere Oscuro è tuo."
     ],
+    "city-play-onin-game-intro": [
+      "Aspettarsi che il bambino ci salvi è una follia!",
+      "Alla sua età, purtroppo, non può fare nulla contro il Capo delle Teste di Metallo.",
+      "Oh, Jak... stavamo parlando... del piano di Samos.",
+      "Onin dice che la tua voce le è familiare.",
+      "Scommetto che voi due vecchietti avete molto da ricordare, eh?",
+      "Onin vuole metterti alla prova, Jak.",
+      "Hai dimostrato di avere coraggio. Ora devi dimostrare di avere cervello!",
+      "Francamente, per me ti sopravvaluta. Ma non comando io!",
+      "Supera questa prova e il terzo pezzo del Sigillo ti sarà rivelato."
+    ],
+    "city-play-onin-game-res": [
+      "Benissimo! Il Sigillo di Mar adesso è completo.",
+      "Onin dice che i tre artefatti che hai recuperato nel Tempio delle Montagne, AAARGH, sono reliquie di un'antica Torre di Luce.",
+      "Gli Antichi Canti raccontano come questa torre illuminasse la Tomba di Mar!",
+      "Vi eseguirò uno dei questi Canti.",
+      "Daaalle nebbie di quel teeeempooo... la Luce di Mar sciNtillaaa...",
+      "Ehi polmoni d'acciaio, dicci solo cosa dobbiamo fare.",
+      "Barbari senza classe! PUH!",
+      "Devi recuperare i tre artefatti al Cancello di Mar.",
+      "Solo allora la Torre di Luce sorgerà per rivelare la Tomba."
+    ],
     "city-protect-slums-intro": [
       "Essere questo pezzo di Sigillo, giusto?",
       "Bello luccicante, eh? Eheh-eh",
@@ -420,6 +516,24 @@
       "Fatti da parte, Jak. Lascia che sia un vero giocatore a darsi da fare.",
       "Daxter, sei proprio... un grande animale!"
     ],
+    "city-whack-a-metal-res": [
+      "La Mappa del Tempo!",
+      "Sai una cosa, zuccherino? ",
+      "Se delle VERE Teste di Metallo venissero in città, le colpirei proprio come ho fatto nel gioco!",
+      "Daxter...",
+      "Griderebbero \"Non farmi male, ti prego!\" E io direi \"Troppo tardi, scimmie metalliche. Morirete tutte piangendo!\"",
+      "Hehe, mi capisci?",
+      "Jak! Quei trofei stanno ancora camminando!",
+      "Mamma, Teste di Metallo! Teste di Metallo!",
+      "Dov'è Sig quando serve?!",
+      "Sig? Credo che Krew l'abbia mandato in missione.",
+      "Qualcosa come \"aprire un passaggio nel porto sotterraneo con la Chiave di Rubino di Mar\"...",
+      "Ma certo!",
+      "Forza Dax, dobbiamo andare subito al porto sotterraneo!",
+      "Porterò la Mappa del Tempo a Keira.",
+      "Fa' attenzione, viso d'angelo.",
+      "Il tuo amato eroe tornerà presto da te!"
+    ],
     "dig-find-totem-res": [
       "No, scusa, Jak! Aspetta un momento!",
       "Penso che questa volta tocchi a te andare a prenderlo.",
@@ -428,6 +542,35 @@
     ],
     "ecowells-victory": [
       "WOW! Evvai! Evviva! HA HAAA-"
+    ],
+    "forest-catch-metal-heads-intro": [
+      "L'Ombra ha deciso che è tempo che vi incontriate.",
+      "Perché quel posto tra le vecchie rovine è così importante?",
+      "Perché nella vecchia casa c'è una potente energia.",
+      "Le Teste di Metallo ne sono attratte.",
+      "Vuoi scherzare? Io conoscevo il tizio che abitava lì!",
+      "Ah! Così voi sareste quelle due nuove reclute sempre in mezzo ai guai...",
+      "Ooh, non è possibile, ancora lui!",
+      "Benvenuti nel nostro umile Mondo Sotterraneo.",
+      "Io sono conosciuto come \"l'Ombra\", ma potete chiamarmi Samos.",
+      "Chi siete voi?",
+      "Accidenti Jak, tutta questa strada solo per incontrare \"sua Maestà Testa di Ceppo\", il nonnetto verde?!",
+      "Ma sul serio non ci riconosci?",
+      "Spiacente ragazzo, mai visti prima! E io non dimentico mai una faccia...",
+      "...specialmente una brutta come questa!",
+      "Ci risiamo, lo sapevo...",
+      "Agh, ma com'è possibile?! Con te abbiamo attraversato il passaggio nel futuro, giusto?",
+      "Già! Sembravi un vecchio barbagianni, più brutto di un tronco nodoso. Che ti è successo?",
+      "Mentre eravamo via ti sei fatto rinverdire le fronde?",
+      "Sentite ragazzi, non so quali erbe abbiate masticato e non m'importa, non ho tempo per queste stupidaggini!",
+      "Io so che dobbiamo destituire un Barone, proteggere un giovane erede, fermare un'invasione di Teste di Metallo e salvare una città.",
+      "Direi che è un programma consistente.",
+      "Ad ogni modo non ho utilizzato alcun passaggio: odio il teletrasporto!",
+      "Parla esattamente come il vecchio Samos...",
+      "Sentite, dovete andare nella Foresta Rifugio ed eliminare un po' di Teste di Metallo.",
+      "Dalla Foresta deriva tutto il mio potere, però non posso proteggerla ancora a lungo.",
+      "Trovate e distruggete tutti gli esploratori delle Teste di Metallo.",
+      "Buona fortuna, e benvenuti in guerra!"
     ],
     "forest-hunt-camo-metal-heads-intro": [
       "Ebbene io ero là, faccia faccia con CINQUE tra le più terribili Teste di Metallo mai esistite!",
@@ -446,6 +589,27 @@
       "Questi nemici si mimetizzano e sono difficili da stanare ma sono certo che, con il tuo \"istinto omicidia\", tu ce la farai.",
       "Vai nella Foresta e falle fuori!"
     ],
+    "forest-protect-samos-intro-a": [
+      "Onin dice che ci avete messo troppo! Abbiamo saltato il pranzo per aspettarvi!",
+      "AH! Okay, non è vero! Lei sta dicendo: \"Grazie per avere salvato il Seme della Vita\".",
+      "Ma al posto suo non l'avrei mai detto!",
+      "Date il Seme ad Onin e lei lo preparerà per Samos.",
+      "Mmmmmmmmh... quanta pappa buona...",
+      "Sta' indietro, peso piuma!",
+      "Ascolta coda corta, io guidavo la mia centesima migrazione quando a te non era ancora spuntato il primo pelo!",
+      "Non che il tuo pelo valga qualcosa, eh!",
+      "Almeno io non sono un pappagallo rimbambito e pieno di pulci che imita una vecchia sibilla con tono professionale!",
+      "\"Jak dice 'buona giornata'.",
+      "\"Jak dice 'non riesco a pensare da solo'.",
+      "\"Jak dice... 'Vai a farti friggere!'",
+      "Basta, questo è troppo! Mi hai fatto arrabbiare, sottospecie di topo!",
+      "In guardia, pennuto! ",
+      "Smettetela tutti e due!",
+      "Sei fortunato, ho troppa fame!",
+      "Onin dice di portare il Seme della Vita al giovane Samos, nella Foresta Rifugio.",
+      "Così Samos avrà finalmente il potere necessario per occuparsi di tutti gli alberi!",
+      "Andate. Svelti!"
+    ],
     "forest-protect-samos-intro-b": [
       "Samos mi ha detto... no-no, tu mi hai detto... cioè- ecco... la tua versione più vecchia... oh, non importa!",
       "So che ti serve il Seme della Vita.",
@@ -453,7 +617,7 @@
       "ECCOLO!",
       "Ricevuto. Siamo in marcia!",
       "Li vedo!",
-      "Jak, proteggimi da queste guardie!",
+      "Jak, proteggimi da queste Guardie!",
       "Devo chiedere alle piante informazioni vitali sul nostro futuro!"
     ],
     "forest-protect-samos-res": [
@@ -1061,7 +1225,7 @@
       "Osserva!",
       "Wow! Piatto ricco...",
       "Stolti! Mi avete portato dritto alla Pietra!",
-      "I vostri penosi amici del Mondo Sotterraneo non potevano certo tener testa alle mie guardie!",
+      "I vostri penosi amici del Mondo Sotterraneo non potevano certo tener testa alle mie Guardie!",
       "Ora conquisterò il potere che mi serve per distruggere i miei nemici!",
       "E dopo aver preso la Pietra mi dedicherò a voi!",
       "Essere abominevole! La Pietra del Precursor non spetta a te!"
@@ -1200,7 +1364,7 @@
       "Aiuta a sfogare un po' di rabbia, eh?"
     ],
     "DSbop010": [
-      "Ci sono molte casse delle guardie Kremizi che aspettano",
+      "Ci sono molte casse delle Guardie Kremizi che aspettano",
       "di essere aperte. Rompi quella cassa!"
     ],
     "DSbop011": [
@@ -1328,7 +1492,7 @@
       "Morte al Barone!"
     ],
     "agnt038": [
-      "Grazie a Mar sei qui. Le guardie Kremizi sono ovunque!"
+      "Grazie a Mar sei qui. Le Guardie Kremizi sono ovunque!"
     ],
     "agnt039": [
       "Finalmente, andiamo via di qui."
@@ -1481,7 +1645,7 @@
       "Morte al Barone!"
     ],
     "agnt089": [
-      "Grazie a Mar sei qui. Le guardie Kremizi sono ovunque!"
+      "Grazie a Mar sei qui. Le Guardie Kremizi sono ovunque!"
     ],
     "agnt090": [
       "Finalmente. Andiamo via di qui!"
@@ -1613,7 +1777,7 @@
       "Muoviti come se sapessi cosa fai!"
     ],
     "agnt133": [
-      "Vai, le guardie Kremizi ci raggiungono!"
+      "Vai, le Guardie Kremizi ci raggiungono!"
     ],
     "agnt134": [
       "Continua così, ci siamo quasi!"
@@ -1888,7 +2052,7 @@
     ],
     "bb07int": [
       "Parla Torn. Ho bisogno che tu trasferisca altri nostri agenti in nuove postazioni in città.",
-      "Le guardie Kremizi osservano tutti i nostri movimenti, quindi sta' attento. In bocca al lupo!"
+      "Le Guardie Kremizi osservano tutti i nostri movimenti, quindi sta' attento. In bocca al lupo!"
     ],
     "bb07win": [
       "Ottimo lavoro. Stai impedendo che la gente muoia là fuori!"
@@ -1967,7 +2131,7 @@
     ],
     "bb14int": [
       "Jak, un nostro agente aspetta una consegna.",
-      "Le guardie lo tengono d'occhio,",
+      "Le Guardie lo tengono d'occhio,",
       "quindi se non lo raggiungi velocemente sarà arrestato.",
       "Portagli il pacco prima che sia troppo tardi, mi raccomando."
     ],
@@ -1991,13 +2155,13 @@
       "Un lavoro eccezionale, Jak. Grazie! Grazie, davvero."
     ],
     "bb16fail": [
-      "Non hai eliminato abbastanza guardie!",
+      "Non hai eliminato abbastanza Guardie!",
       "Bisogna colpire più duro!"
     ],
     "bb16int": [
-      "Jak, qui è Torn. Le guardie d'élite di Erol",
+      "Jak, qui è Torn. Le Guardie d'Élite di Erol",
       "pattugliano la città. Dobbiamo colpirle, e colpire duro.",
-      "Elimina un numero sufficiente di guardie prima che io",
+      "Elimina un numero sufficiente di Guardie prima che io",
       "interrompa la missione. Se non lo fai perderemo",
       "l'opportunità di infliggere seri danni al nemico."
     ],
@@ -2054,11 +2218,11 @@
     ],
     "bb21int": [
       "Ogni tanto ci piace \"prendere in prestito\" l'equipaggiamento",
-      "delle guardie Kremizi. Prendi la moto della pattuglia",
+      "delle Guardie Kremizi. Prendi la moto della pattuglia",
       "e colpisci tutti i bersagli nel tempo limite."
     ],
     "bb21win": [
-      "Bel colpo. Le guardie pagherebbero per averti come recluta,",
+      "Bel colpo. Le Guardie pagherebbero per averti come recluta,",
       "ma eccoti una piccola ricompensa per farti stare con noi."
     ],
     "bb22fail": [
@@ -2972,7 +3136,7 @@
       "Avvio eliminazione con estrema cautela."
     ],
     "cityv095": [
-      "Area accessibile solo al personale delle guardie Kremizi."
+      "Area accessibile solo al personale delle Guardie Kremizi."
     ],
     "cityv096": [
       "La città è in stato di allerta."
@@ -3444,7 +3608,7 @@
       "Usa il tuo Jet Board!"
     ],
     "ds152": [
-      "Abbiamo compagnia, Jak! Guardie, molte guardie!"
+      "Abbiamo compagnia, Jak! Guardie, molte Guardie!"
     ],
     "ds160": [
       "È vero, siamo cattivi! La Pietra del Precursor è nostra!"
@@ -4078,7 +4242,7 @@
       "Oh-oh, problemi in vista!"
     ],
     "dsek006": [
-      "Altre guardie!"
+      "Altre Guardie!"
     ],
     "dsek007": [
       "Bambino, attento! Mi stai uccidendo!"
@@ -6135,7 +6299,7 @@
       "Fuoco, fuoco!"
     ],
     "kg151": [
-      "Eccone uno per la guardia!"
+      "Eccone uno per la Guardia!"
     ],
     "kg152": [
       "Arrenditi, criminale!"
@@ -6690,13 +6854,13 @@
       "Ci sarò."
     ],
     "kg226": [
-      "Questa settimana ci sono stati molti caduti tra le guardie."
+      "Questa settimana ci sono stati molti caduti tra le Guardie."
     ],
     "kg226a": [
-      "Questa settimana ci sono stati molti caduti tra le guardie."
+      "Questa settimana ci sono stati molti caduti tra le Guardie."
     ],
     "kg226b": [
-      "Questa settimana ci sono stati molti caduti tra le guardie."
+      "Questa settimana ci sono stati molti caduti tra le Guardie."
     ],
     "kg227": [
       "Sì, un ribelle sta combinando un inferno."
@@ -7165,7 +7329,7 @@
       "Portate l'artiglieria pesante!"
     ],
     "kg360a": [
-      "Inviate le guardie corazzate!"
+      "Inviate le Guardie corazzate!"
     ],
     "kg361a": [
       "Ci sono!"
@@ -7455,16 +7619,16 @@
       "Jak, qui è Krew. Ho parlato con il mio cliente e mi ha detto",
       "che sei abbastanza abile con il suo Jet Board.",
       "Ho saputo da fonti sicure che un carico di apparecchiature",
-      "per la sorveglianza destinato alle guardie Kremizi è arrivato al porto.",
+      "per la sorveglianza destinato alle Guardie Kremizi è arrivato al porto.",
       "Nessuno di noi, incluso il Mondo Sotterraneo, vuole che questi",
       "dispositivi entrino in funzione. Non è un bene per gli affari.",
-      "Vai al porto con il Jet Board e distruggi tutte le casse delle guardie Kremizi.",
+      "Vai al porto con il Jet Board e distruggi tutte le casse delle Guardie Kremizi.",
       "Ci sarà un perimetro difensivo, quindi fai attenzione. Mmmh?"
     ],
     "krew002": [
       "Ottimo lavoro, Jak. Hai impressionato anche me.",
-      "Questo dovrebbe tenere quelle guardie Kremizi lontano dai nostri affari.",
-      "Che mondo è se non è più possibile corrompere qualche guardia, mmmh?"
+      "Questo dovrebbe tenere quelle Guardie Kremizi lontano dai nostri affari.",
+      "Che mondo è se non è più possibile corrompere qualche Guardie, mmmh?"
     ],
     "krew003": [
       "Ooooh... a volte, le favole diventano realtà!",
@@ -8127,7 +8291,7 @@
       "Bene."
     ],
     "sigc011": [
-      "Troverai le munizioni rosse nelle casse delle guardie Kremizi."
+      "Troverai le munizioni rosse nelle casse delle Guardie Kremizi."
     ],
     "sigc012": [
       "Spara alle casse."
@@ -8597,7 +8761,7 @@
     ],
     "tor003": [
       "Eccoci, Jak. Ora tocca a te.",
-      "Cerca di non fa scattare gli allarmi, le guardie sono molto pericolose.",
+      "Cerca di non fa scattare gli allarmi, le Guardie sono molto pericolose.",
       "Raggiungi il blocco carcerario e trova i prigionieri.",
       "Una volta là, attiveremo il passaggio temporale per liberarvi tutti.",
       "Buona fortuna."
@@ -8614,7 +8778,7 @@
       "Svelto, ci serve ogni uomo disponibile!"
     ],
     "tor007": [
-      "Jak, un posto di blocco delle guardie. Esci di lì!"
+      "Jak, un posto di blocco delle Guardie. Esci di lì!"
     ],
     "tor008": [
       "Hanno predisposto un blocco stradale, ti stanno cercando!"

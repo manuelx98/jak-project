@@ -551,7 +551,7 @@
           "frame_end": 1330,
           "frame_start": 1289,
           "merge": false,
-          "offscreen": false,
+          "offscreen": true,
           "speaker": "ashelin"
         },
         {
@@ -725,29 +725,29 @@
     "castle-krew-boss-fight-res": {
       "lines": [
         {
-          "frame_end": 130,
+          "frame_end": 133,
           "frame_start": 87,
           "merge": false,
           "offscreen": false,
           "speaker": "jak"
         },
         {
-          "frame_end": 162,
-          "frame_start": 133,
+          "frame_end": 165,
+          "frame_start": 132,
           "merge": false,
           "offscreen": false,
           "speaker": "daxter"
         },
         {
           "frame_end": 432,
-          "frame_start": 173,
+          "frame_start": 171,
           "merge": false,
           "offscreen": false,
           "speaker": "krew"
         },
         {
           "frame_end": 573,
-          "frame_start": 440,
+          "frame_start": 437,
           "merge": false,
           "offscreen": false,
           "speaker": "daxter"
@@ -756,7 +756,7 @@
           "frame_end": 617,
           "frame_start": 597,
           "merge": false,
-          "offscreen": false,
+          "offscreen": true,
           "speaker": "jak"
         },
         {
@@ -781,14 +781,14 @@
           "frame_end": 59,
           "frame_start": 15,
           "merge": false,
-          "offscreen": false,
+          "offscreen": true,
           "speaker": "ashelin"
         },
         {
           "frame_end": 114,
           "frame_start": 60,
           "merge": false,
-          "offscreen": false,
+          "offscreen": true,
           "speaker": "ashelin"
         },
         {
@@ -1856,7 +1856,7 @@
           "frame_end": 402,
           "frame_start": 280,
           "merge": false,
-          "offscreen": false,
+          "offscreen": true,
           "speaker": "brutter"
         },
         {
@@ -2141,7 +2141,7 @@
           "frame_end": 1914,
           "frame_start": 1803,
           "merge": false,
-          "offscreen": false,
+          "offscreen": true,
           "speaker": "errol"
         },
         {
@@ -3215,7 +3215,7 @@
           "frame_end": 371,
           "frame_start": 234,
           "merge": false,
-          "offscreen": false,
+          "offscreen": true,
           "speaker": "krew"
         },
         {
@@ -3525,35 +3525,35 @@
           "frame_end": 85,
           "frame_start": 10,
           "merge": false,
-          "offscreen": false,
+          "offscreen": true,
           "speaker": "oracle"
         },
         {
           "frame_end": 296,
           "frame_start": 101,
           "merge": false,
-          "offscreen": false,
+          "offscreen": true,
           "speaker": "oracle"
         },
         {
           "frame_end": 395,
           "frame_start": 314,
           "merge": false,
-          "offscreen": false,
+          "offscreen": true,
           "speaker": "oracle"
         },
         {
           "frame_end": 536,
           "frame_start": 403,
           "merge": false,
-          "offscreen": false,
+          "offscreen": true,
           "speaker": "oracle"
         },
         {
           "frame_end": 717,
           "frame_start": 550,
           "merge": false,
-          "offscreen": false,
+          "offscreen": true,
           "speaker": "oracle"
         }
       ]
@@ -3564,14 +3564,14 @@
           "frame_end": 341,
           "frame_start": 226,
           "merge": false,
-          "offscreen": false,
+          "offscreen": true,
           "speaker": "oracle"
         },
         {
           "frame_end": 450,
           "frame_start": 346,
           "merge": false,
-          "offscreen": false,
+          "offscreen": true,
           "speaker": "oracle"
         }
       ]
@@ -3582,21 +3582,21 @@
           "frame_end": 144,
           "frame_start": 24,
           "merge": false,
-          "offscreen": false,
+          "offscreen": true,
           "speaker": "oracle"
         },
         {
           "frame_end": 343,
           "frame_start": 156,
           "merge": false,
-          "offscreen": false,
+          "offscreen": true,
           "speaker": "oracle"
         },
         {
           "frame_end": 448,
           "frame_start": 343,
           "merge": false,
-          "offscreen": false,
+          "offscreen": true,
           "speaker": "oracle"
         }
       ]
@@ -3607,28 +3607,28 @@
           "frame_end": 133,
           "frame_start": -3,
           "merge": false,
-          "offscreen": false,
+          "offscreen": true,
           "speaker": "oracle"
         },
         {
           "frame_end": 254,
           "frame_start": 140,
           "merge": false,
-          "offscreen": false,
+          "offscreen": true,
           "speaker": "oracle"
         },
         {
           "frame_end": 370,
           "frame_start": 254,
           "merge": false,
-          "offscreen": false,
+          "offscreen": true,
           "speaker": "oracle"
         },
         {
           "frame_end": 440,
           "frame_start": 376,
           "merge": false,
-          "offscreen": false,
+          "offscreen": true,
           "speaker": "oracle"
         }
       ]
@@ -3639,42 +3639,42 @@
           "frame_end": 57,
           "frame_start": -23,
           "merge": false,
-          "offscreen": false,
+          "offscreen": true,
           "speaker": "oracle"
         },
         {
           "frame_end": 173,
           "frame_start": 66,
           "merge": false,
-          "offscreen": false,
+          "offscreen": true,
           "speaker": "oracle"
         },
         {
           "frame_end": 227,
           "frame_start": 178,
           "merge": false,
-          "offscreen": false,
+          "offscreen": true,
           "speaker": "oracle"
         },
         {
           "frame_end": 330,
           "frame_start": 234,
           "merge": false,
-          "offscreen": false,
+          "offscreen": true,
           "speaker": "oracle"
         },
         {
           "frame_end": 385,
           "frame_start": 330,
           "merge": false,
-          "offscreen": false,
+          "offscreen": true,
           "speaker": "oracle"
         },
         {
           "frame_end": 450,
           "frame_start": 388,
           "merge": false,
-          "offscreen": false,
+          "offscreen": true,
           "speaker": "oracle"
         }
       ]
@@ -3752,7 +3752,7 @@
           "frame_end": 131,
           "frame_start": 32,
           "merge": false,
-          "offscreen": false,
+          "offscreen": true,
           "speaker": "pecker"
         },
         {
@@ -6752,7 +6752,7 @@
           "frame_end": 1467,
           "frame_start": 1437,
           "merge": false,
-          "offscreen": true,
+          "offscreen": false,
           "speaker": "errol"
         },
         {
@@ -7483,7 +7483,7 @@
           "frame_end": 133,
           "frame_start": 69,
           "merge": false,
-          "offscreen": false,
+          "offscreen": true,
           "speaker": "daxter"
         },
         {
@@ -7518,7 +7518,7 @@
           "frame_end": 610,
           "frame_start": 443,
           "merge": false,
-          "offscreen": false,
+          "offscreen": true,
           "speaker": "daxter"
         },
         {
@@ -7768,7 +7768,7 @@
           "frame_end": 2001,
           "frame_start": 1665,
           "merge": false,
-          "offscreen": false,
+          "offscreen": true,
           "speaker": "metalkor"
         },
         {
@@ -7993,21 +7993,21 @@
           "frame_end": 415,
           "frame_start": 311,
           "merge": false,
-          "offscreen": false,
+          "offscreen": true,
           "speaker": "precursor"
         },
         {
           "frame_end": 647,
           "frame_start": 422,
           "merge": false,
-          "offscreen": false,
+          "offscreen": true,
           "speaker": "precursor"
         },
         {
           "frame_end": 702,
           "frame_start": 650,
           "merge": false,
-          "offscreen": false,
+          "offscreen": true,
           "speaker": "precursor"
         },
         {
@@ -9646,7 +9646,7 @@
           "speaker": "daxter"
         },
         {
-          "frame_end": 1071,
+          "frame_end": 1069,
           "frame_start": 993,
           "merge": false,
           "offscreen": false,
@@ -9654,7 +9654,7 @@
         },
         {
           "frame_end": 1209,
-          "frame_start": 1070,
+          "frame_start": 1069,
           "merge": false,
           "offscreen": false,
           "speaker": "sig"
@@ -9710,7 +9710,7 @@
         },
         {
           "frame_end": 2246,
-          "frame_start": 2113,
+          "frame_start": 2112,
           "merge": false,
           "offscreen": false,
           "speaker": "krew"
@@ -9829,14 +9829,14 @@
           "frame_end": 147,
           "frame_start": 123,
           "merge": false,
-          "offscreen": false,
+          "offscreen": true,
           "speaker": "jinx"
         },
         {
           "frame_end": 200,
           "frame_start": 148,
           "merge": false,
-          "offscreen": false,
+          "offscreen": true,
           "speaker": "mog"
         },
         {
@@ -10628,22 +10628,22 @@
     "DSbop004": {
       "lines": [
         {
-          "frame_end": 48,
+          "frame_end": 32,
           "frame_start": 0,
           "merge": false,
           "offscreen": true,
           "speaker": "daxter"
         },
         {
-          "frame_end": 118,
-          "frame_start": 49,
+          "frame_end": 120,
+          "frame_start": 32,
           "merge": false,
           "offscreen": true,
           "speaker": "daxter"
         },
         {
           "frame_end": 149,
-          "frame_start": 119,
+          "frame_start": 120,
           "merge": false,
           "offscreen": true,
           "speaker": "daxter"
@@ -10653,15 +10653,15 @@
     "DSbop010": {
       "lines": [
         {
-          "frame_end": 66,
+          "frame_end": 92,
           "frame_start": 0,
           "merge": false,
           "offscreen": true,
           "speaker": "daxter"
         },
         {
-          "frame_end": 115,
-          "frame_start": 67,
+          "frame_end": 119,
+          "frame_start": 92,
           "merge": false,
           "offscreen": true,
           "speaker": "daxter"
@@ -10678,15 +10678,8 @@
           "speaker": "daxter"
         },
         {
-          "frame_end": 148,
-          "frame_start": 88,
-          "merge": false,
-          "offscreen": true,
-          "speaker": "daxter"
-        },
-        {
           "frame_end": 189,
-          "frame_start": 149,
+          "frame_start": 88,
           "merge": false,
           "offscreen": true,
           "speaker": "daxter"
@@ -10696,15 +10689,8 @@
     "DSbop016": {
       "lines": [
         {
-          "frame_end": 69,
+          "frame_end": 125,
           "frame_start": 0,
-          "merge": false,
-          "offscreen": true,
-          "speaker": "daxter"
-        },
-        {
-          "frame_end": 124,
-          "frame_start": 70,
           "merge": false,
           "offscreen": true,
           "speaker": "daxter"
@@ -12722,7 +12708,7 @@
     "asht006": {
       "lines": [
         {
-          "frame_end": 79,
+          "frame_end": 116,
           "frame_start": 0,
           "merge": false,
           "offscreen": true,
@@ -12730,28 +12716,21 @@
         },
         {
           "frame_end": 168,
-          "frame_start": 80,
+          "frame_start": 116,
           "merge": false,
           "offscreen": true,
           "speaker": "ashelin"
         },
         {
-          "frame_end": 264,
+          "frame_end": 319,
           "frame_start": 169,
           "merge": false,
           "offscreen": true,
           "speaker": "torn"
         },
         {
-          "frame_end": 362,
-          "frame_start": 265,
-          "merge": false,
-          "offscreen": true,
-          "speaker": "torn"
-        },
-        {
           "frame_end": 449,
-          "frame_start": 363,
+          "frame_start": 319,
           "merge": false,
           "offscreen": true,
           "speaker": "torn"
@@ -12768,50 +12747,36 @@
     "bar001": {
       "lines": [
         {
-          "frame_end": 68,
+          "frame_end": 126,
           "frame_start": 0,
           "merge": false,
           "offscreen": true,
           "speaker": "baron"
         },
         {
-          "frame_end": 195,
-          "frame_start": 69,
+          "frame_end": 304,
+          "frame_start": 139,
           "merge": false,
           "offscreen": true,
           "speaker": "baron"
         },
         {
-          "frame_end": 311,
-          "frame_start": 196,
+          "frame_end": 471,
+          "frame_start": 313,
           "merge": false,
           "offscreen": true,
           "speaker": "baron"
         },
         {
-          "frame_end": 383,
-          "frame_start": 312,
-          "merge": false,
-          "offscreen": true,
-          "speaker": "baron"
-        },
-        {
-          "frame_end": 470,
-          "frame_start": 384,
-          "merge": false,
-          "offscreen": true,
-          "speaker": "baron"
-        },
-        {
-          "frame_end": 599,
-          "frame_start": 471,
+          "frame_end": 547,
+          "frame_start": 473,
           "merge": false,
           "offscreen": true,
           "speaker": "baron"
         },
         {
           "frame_end": 674,
-          "frame_start": 600,
+          "frame_start": 564,
           "merge": false,
           "offscreen": true,
           "speaker": "baron"
@@ -12821,22 +12786,15 @@
     "bb01int": {
       "lines": [
         {
-          "frame_end": 113,
+          "frame_end": 163,
           "frame_start": 0,
           "merge": false,
           "offscreen": true,
           "speaker": "torn"
         },
         {
-          "frame_end": 214,
-          "frame_start": 114,
-          "merge": false,
-          "offscreen": true,
-          "speaker": "torn"
-        },
-        {
           "frame_end": 284,
-          "frame_start": 215,
+          "frame_start": 167,
           "merge": false,
           "offscreen": true,
           "speaker": "torn"
@@ -12864,7 +12822,7 @@
     "bb02int": {
       "lines": [
         {
-          "frame_end": 91,
+          "frame_end": 49,
           "frame_start": 0,
           "merge": false,
           "offscreen": true,
@@ -12872,7 +12830,7 @@
         },
         {
           "frame_end": 179,
-          "frame_start": 92,
+          "frame_start": 57,
           "merge": false,
           "offscreen": true,
           "speaker": "torn"
@@ -12911,7 +12869,7 @@
     "bb03win": {
       "lines": [
         {
-          "frame_end": 91,
+          "frame_end": 40,
           "frame_start": 0,
           "merge": false,
           "offscreen": true,
@@ -12919,7 +12877,7 @@
         },
         {
           "frame_end": 136,
-          "frame_start": 92,
+          "frame_start": 41,
           "merge": false,
           "offscreen": true,
           "speaker": "torn"
@@ -12940,29 +12898,22 @@
     "bb04int": {
       "lines": [
         {
-          "frame_end": 83,
+          "frame_end": 116,
           "frame_start": 0,
           "merge": false,
           "offscreen": true,
           "speaker": "torn"
         },
         {
-          "frame_end": 168,
-          "frame_start": 84,
-          "merge": false,
-          "offscreen": true,
-          "speaker": "torn"
-        },
-        {
-          "frame_end": 255,
-          "frame_start": 169,
+          "frame_end": 213,
+          "frame_start": 117,
           "merge": false,
           "offscreen": true,
           "speaker": "torn"
         },
         {
           "frame_end": 334,
-          "frame_start": 256,
+          "frame_start": 218,
           "merge": false,
           "offscreen": true,
           "speaker": "torn"
@@ -13001,15 +12952,8 @@
           "speaker": "torn"
         },
         {
-          "frame_end": 224,
-          "frame_start": 141,
-          "merge": false,
-          "offscreen": true,
-          "speaker": "torn"
-        },
-        {
           "frame_end": 265,
-          "frame_start": 225,
+          "frame_start": 141,
           "merge": false,
           "offscreen": true,
           "speaker": "torn"
@@ -13019,15 +12963,22 @@
     "bb06int": {
       "lines": [
         {
-          "frame_end": 126,
+          "frame_end": 87,
           "frame_start": 0,
           "merge": false,
           "offscreen": true,
           "speaker": "torn"
         },
         {
-          "frame_end": 247,
-          "frame_start": 127,
+          "frame_end": 179,
+          "frame_start": 93,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "torn"
+        },
+        {
+          "frame_end": 246,
+          "frame_start": 179,
           "merge": false,
           "offscreen": true,
           "speaker": "torn"
@@ -13037,22 +12988,22 @@
     "bb06win": {
       "lines": [
         {
-          "frame_end": 71,
+          "frame_end": 104,
           "frame_start": 0,
           "merge": false,
           "offscreen": true,
           "speaker": "torn"
         },
         {
-          "frame_end": 175,
-          "frame_start": 72,
+          "frame_end": 139,
+          "frame_start": 107,
           "merge": false,
           "offscreen": true,
           "speaker": "torn"
         },
         {
           "frame_end": 249,
-          "frame_start": 176,
+          "frame_start": 140,
           "merge": false,
           "offscreen": true,
           "speaker": "torn"
@@ -13181,7 +13132,7 @@
     "bb09win": {
       "lines": [
         {
-          "frame_end": 82,
+          "frame_end": 40,
           "frame_start": 0,
           "merge": false,
           "offscreen": true,
@@ -13189,7 +13140,7 @@
         },
         {
           "frame_end": 136,
-          "frame_start": 83,
+          "frame_start": 44,
           "merge": false,
           "offscreen": true,
           "speaker": "torn"
@@ -13264,22 +13215,15 @@
     "bb11int": {
       "lines": [
         {
-          "frame_end": 58,
+          "frame_end": 98,
           "frame_start": 0,
           "merge": false,
           "offscreen": true,
           "speaker": "torn"
         },
         {
-          "frame_end": 136,
-          "frame_start": 59,
-          "merge": false,
-          "offscreen": true,
-          "speaker": "torn"
-        },
-        {
           "frame_end": 184,
-          "frame_start": 137,
+          "frame_start": 98,
           "merge": false,
           "offscreen": true,
           "speaker": "torn"
@@ -13383,22 +13327,15 @@
     "bb14int": {
       "lines": [
         {
-          "frame_end": 78,
+          "frame_end": 79,
           "frame_start": 0,
           "merge": false,
           "offscreen": true,
           "speaker": "torn"
         },
         {
-          "frame_end": 120,
-          "frame_start": 79,
-          "merge": false,
-          "offscreen": true,
-          "speaker": "torn"
-        },
-        {
           "frame_end": 207,
-          "frame_start": 121,
+          "frame_start": 80,
           "merge": false,
           "offscreen": true,
           "speaker": "torn"
@@ -13415,15 +13352,8 @@
     "bb15fail": {
       "lines": [
         {
-          "frame_end": 90,
-          "frame_start": 0,
-          "merge": false,
-          "offscreen": true,
-          "speaker": "torn"
-        },
-        {
           "frame_end": 134,
-          "frame_start": 91,
+          "frame_start": 0,
           "merge": false,
           "offscreen": true,
           "speaker": "torn"
@@ -13494,7 +13424,7 @@
     "bb16int": {
       "lines": [
         {
-          "frame_end": 92,
+          "frame_end": 127,
           "frame_start": 0,
           "merge": false,
           "offscreen": true,
@@ -13502,28 +13432,21 @@
         },
         {
           "frame_end": 198,
-          "frame_start": 93,
+          "frame_start": 127,
           "merge": false,
           "offscreen": true,
           "speaker": "torn"
         },
         {
-          "frame_end": 271,
-          "frame_start": 199,
-          "merge": false,
-          "offscreen": true,
-          "speaker": "torn"
-        },
-        {
-          "frame_end": 351,
-          "frame_start": 272,
+          "frame_end": 310,
+          "frame_start": 201,
           "merge": false,
           "offscreen": true,
           "speaker": "torn"
         },
         {
           "frame_end": 429,
-          "frame_start": 352,
+          "frame_start": 316,
           "merge": false,
           "offscreen": true,
           "speaker": "torn"
@@ -13623,7 +13546,7 @@
     "bb18win": {
       "lines": [
         {
-          "frame_end": 86,
+          "frame_end": 46,
           "frame_start": 0,
           "merge": false,
           "offscreen": true,
@@ -13631,7 +13554,7 @@
         },
         {
           "frame_end": 139,
-          "frame_start": 87,
+          "frame_start": 46,
           "merge": false,
           "offscreen": true,
           "speaker": "torn"
@@ -13728,22 +13651,15 @@
     "bb21int": {
       "lines": [
         {
-          "frame_end": 80,
+          "frame_end": 116,
           "frame_start": 0,
           "merge": false,
           "offscreen": true,
           "speaker": "torn"
         },
         {
-          "frame_end": 154,
-          "frame_start": 81,
-          "merge": false,
-          "offscreen": true,
-          "speaker": "torn"
-        },
-        {
           "frame_end": 230,
-          "frame_start": 155,
+          "frame_start": 119,
           "merge": false,
           "offscreen": true,
           "speaker": "torn"
@@ -13811,15 +13727,8 @@
     "bb23fail": {
       "lines": [
         {
-          "frame_end": 67,
-          "frame_start": 0,
-          "merge": false,
-          "offscreen": true,
-          "speaker": "torn"
-        },
-        {
           "frame_end": 120,
-          "frame_start": 68,
+          "frame_start": 0,
           "merge": false,
           "offscreen": true,
           "speaker": "torn"
@@ -13829,15 +13738,8 @@
     "bb23int": {
       "lines": [
         {
-          "frame_end": 75,
-          "frame_start": 0,
-          "merge": false,
-          "offscreen": true,
-          "speaker": "torn"
-        },
-        {
           "frame_end": 158,
-          "frame_start": 76,
+          "frame_start": 0,
           "merge": false,
           "offscreen": true,
           "speaker": "torn"
@@ -14170,6 +14072,17 @@
           "merge": false,
           "offscreen": true,
           "speaker": "torn"
+        }
+      ]
+    },
+    "bf003": {
+      "lines": [
+        {
+          "frame_end": 73,
+          "frame_start": 0,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "baron"
         }
       ]
     },
@@ -16729,15 +16642,8 @@
     "cityv070": {
       "lines": [
         {
-          "frame_end": 51,
+          "frame_end": 100,
           "frame_start": 0,
-          "merge": false,
-          "offscreen": true,
-          "speaker": "computer"
-        },
-        {
-          "frame_end": 101,
-          "frame_start": 52,
           "merge": false,
           "offscreen": true,
           "speaker": "computer"
@@ -17202,8 +17108,15 @@
     "cityv154": {
       "lines": [
         {
-          "frame_end": 111,
+          "frame_end": 61,
           "frame_start": 0,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "computer"
+        },
+        {
+          "frame_end": 107,
+          "frame_start": 62,
           "merge": false,
           "offscreen": true,
           "speaker": "computer"
@@ -17303,7 +17216,7 @@
           "speaker": "computer"
         },
         {
-          "frame_end": 93,
+          "frame_end": 106,
           "frame_start": 45,
           "merge": false,
           "offscreen": true,
@@ -17932,15 +17845,8 @@
           "speaker": "daxter"
         },
         {
-          "frame_end": 75,
-          "frame_start": 47,
-          "merge": false,
-          "offscreen": true,
-          "speaker": "daxter"
-        },
-        {
           "frame_end": 141,
-          "frame_start": 76,
+          "frame_start": 47,
           "merge": false,
           "offscreen": true,
           "speaker": "daxter"
@@ -20564,8 +20470,15 @@
     "ds498": {
       "lines": [
         {
-          "frame_end": 69,
+          "frame_end": 40,
           "frame_start": 0,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "daxter"
+        },
+        {
+          "frame_end": 70,
+          "frame_start": 41,
           "merge": false,
           "offscreen": true,
           "speaker": "daxter"
@@ -21413,7 +21326,7 @@
           "speaker": "errol"
         },
         {
-          "frame_end": 219,
+          "frame_end": 220,
           "frame_start": 108,
           "merge": false,
           "offscreen": true,
@@ -21421,28 +21334,28 @@
         },
         {
           "frame_end": 363,
-          "frame_start": 221,
+          "frame_start": 224,
           "merge": false,
           "offscreen": true,
           "speaker": "errol"
         },
         {
-          "frame_end": 521,
-          "frame_start": 364,
+          "frame_end": 437,
+          "frame_start": 365,
           "merge": false,
           "offscreen": true,
           "speaker": "errol"
         },
         {
-          "frame_end": 633,
-          "frame_start": 522,
+          "frame_end": 599,
+          "frame_start": 446,
           "merge": false,
           "offscreen": true,
           "speaker": "errol"
         },
         {
           "frame_end": 814,
-          "frame_start": 634,
+          "frame_start": 603,
           "merge": false,
           "offscreen": true,
           "speaker": "errol"
@@ -21452,7 +21365,7 @@
     "erol003": {
       "lines": [
         {
-          "frame_end": 117,
+          "frame_end": 118,
           "frame_start": 0,
           "merge": false,
           "offscreen": true,
@@ -22275,8 +22188,15 @@
     "hal083": {
       "lines": [
         {
-          "frame_end": 117,
+          "frame_end": 44,
           "frame_start": 0,
+          "merge": false,
+          "offscreen": true,
+          "speaker": "jinx"
+        },
+        {
+          "frame_end": 117,
+          "frame_start": 55,
           "merge": false,
           "offscreen": true,
           "speaker": "jinx"
@@ -24121,22 +24041,22 @@
     "kei027": {
       "lines": [
         {
-          "frame_end": 117,
+          "frame_end": 120,
           "frame_start": 0,
           "merge": false,
           "offscreen": true,
           "speaker": "keira"
         },
         {
-          "frame_end": 202,
-          "frame_start": 118,
+          "frame_end": 253,
+          "frame_start": 120,
           "merge": false,
           "offscreen": true,
           "speaker": "keira"
         },
         {
           "frame_end": 299,
-          "frame_start": 203,
+          "frame_start": 254,
           "merge": false,
           "offscreen": true,
           "speaker": "keira"
@@ -24146,7 +24066,7 @@
     "kei028": {
       "lines": [
         {
-          "frame_end": 96,
+          "frame_end": 147,
           "frame_start": 0,
           "merge": false,
           "offscreen": true,
@@ -24154,21 +24074,14 @@
         },
         {
           "frame_end": 222,
-          "frame_start": 97,
-          "merge": false,
-          "offscreen": true,
-          "speaker": "keira"
-        },
-        {
-          "frame_end": 320,
-          "frame_start": 233,
+          "frame_start": 147,
           "merge": false,
           "offscreen": true,
           "speaker": "keira"
         },
         {
           "frame_end": 366,
-          "frame_start": 321,
+          "frame_start": 233,
           "merge": false,
           "offscreen": true,
           "speaker": "keira"
@@ -30007,7 +29920,7 @@
     "krew001": {
       "lines": [
         {
-          "frame_end": 135,
+          "frame_end": 74,
           "frame_start": 0,
           "merge": false,
           "offscreen": true,
@@ -30015,13 +29928,13 @@
         },
         {
           "frame_end": 217,
-          "frame_start": 136,
+          "frame_start": 77,
           "merge": false,
           "offscreen": true,
           "speaker": "krew"
         },
         {
-          "frame_end": 298,
+          "frame_end": 329,
           "frame_start": 218,
           "merge": false,
           "offscreen": true,
@@ -30029,21 +29942,21 @@
         },
         {
           "frame_end": 425,
-          "frame_start": 299,
+          "frame_start": 329,
           "merge": false,
           "offscreen": true,
           "speaker": "krew"
         },
         {
-          "frame_end": 515,
+          "frame_end": 573,
           "frame_start": 426,
           "merge": false,
           "offscreen": true,
           "speaker": "krew"
         },
         {
-          "frame_end": 632,
-          "frame_start": 516,
+          "frame_end": 624,
+          "frame_start": 573,
           "merge": false,
           "offscreen": true,
           "speaker": "krew"
@@ -30113,7 +30026,7 @@
           "speaker": "krew"
         },
         {
-          "frame_end": 604,
+          "frame_end": 631,
           "frame_start": 502,
           "merge": false,
           "offscreen": true,
@@ -30121,7 +30034,7 @@
         },
         {
           "frame_end": 721,
-          "frame_start": 605,
+          "frame_start": 631,
           "merge": false,
           "offscreen": true,
           "speaker": "krew"
@@ -31326,43 +31239,36 @@
     "prop005": {
       "lines": [
         {
-          "frame_end": 99,
+          "frame_end": 150,
           "frame_start": 0,
           "merge": false,
           "offscreen": true,
           "speaker": "baron"
         },
         {
-          "frame_end": 187,
-          "frame_start": 100,
+          "frame_end": 219,
+          "frame_start": 150,
           "merge": false,
           "offscreen": true,
           "speaker": "baron"
         },
         {
-          "frame_end": 286,
-          "frame_start": 188,
+          "frame_end": 381,
+          "frame_start": 227,
           "merge": false,
           "offscreen": true,
           "speaker": "baron"
         },
         {
-          "frame_end": 385,
-          "frame_start": 287,
-          "merge": false,
-          "offscreen": true,
-          "speaker": "baron"
-        },
-        {
-          "frame_end": 473,
-          "frame_start": 386,
+          "frame_end": 499,
+          "frame_start": 387,
           "merge": false,
           "offscreen": true,
           "speaker": "baron"
         },
         {
           "frame_end": 570,
-          "frame_start": 474,
+          "frame_start": 499,
           "merge": false,
           "offscreen": true,
           "speaker": "baron"
@@ -31379,35 +31285,28 @@
     "prop006": {
       "lines": [
         {
-          "frame_end": 113,
+          "frame_end": 165,
           "frame_start": 0,
           "merge": false,
           "offscreen": true,
           "speaker": "baron"
         },
         {
-          "frame_end": 204,
-          "frame_start": 114,
+          "frame_end": 263,
+          "frame_start": 165,
           "merge": false,
           "offscreen": true,
           "speaker": "baron"
         },
         {
-          "frame_end": 328,
-          "frame_start": 205,
+          "frame_end": 400,
+          "frame_start": 265,
           "merge": false,
           "offscreen": true,
           "speaker": "baron"
         },
         {
-          "frame_end": 414,
-          "frame_start": 329,
-          "merge": false,
-          "offscreen": true,
-          "speaker": "baron"
-        },
-        {
-          "frame_end": 518,
+          "frame_end": 538,
           "frame_start": 438,
           "merge": false,
           "offscreen": true,
@@ -31415,7 +31314,7 @@
         },
         {
           "frame_end": 623,
-          "frame_start": 519,
+          "frame_start": 538,
           "merge": false,
           "offscreen": true,
           "speaker": "baron"
@@ -31439,36 +31338,22 @@
     "prop007": {
       "lines": [
         {
-          "frame_end": 79,
+          "frame_end": 169,
           "frame_start": 0,
           "merge": false,
           "offscreen": true,
           "speaker": "baron"
         },
         {
-          "frame_end": 173,
-          "frame_start": 80,
-          "merge": false,
-          "offscreen": true,
-          "speaker": "baron"
-        },
-        {
-          "frame_end": 251,
+          "frame_end": 307,
           "frame_start": 174,
           "merge": false,
           "offscreen": true,
           "speaker": "baron"
         },
         {
-          "frame_end": 366,
-          "frame_start": 252,
-          "merge": false,
-          "offscreen": true,
-          "speaker": "baron"
-        },
-        {
           "frame_end": 455,
-          "frame_start": 367,
+          "frame_start": 313,
           "merge": false,
           "offscreen": true,
           "speaker": "baron"
@@ -31485,28 +31370,21 @@
           "speaker": "baron"
         },
         {
-          "frame_end": 183,
-          "frame_start": 103,
+          "frame_end": 242,
+          "frame_start": 102,
           "merge": false,
           "offscreen": true,
           "speaker": "baron"
         },
         {
-          "frame_end": 268,
-          "frame_start": 184,
+          "frame_end": 332,
+          "frame_start": 247,
           "merge": false,
           "offscreen": true,
           "speaker": "baron"
         },
         {
-          "frame_end": 331,
-          "frame_start": 269,
-          "merge": false,
-          "offscreen": true,
-          "speaker": "baron"
-        },
-        {
-          "frame_end": 443,
+          "frame_end": 423,
           "frame_start": 332,
           "merge": false,
           "offscreen": true,
@@ -31520,15 +31398,8 @@
           "speaker": "baron"
         },
         {
-          "frame_end": 643,
-          "frame_start": 549,
-          "merge": false,
-          "offscreen": true,
-          "speaker": "baron"
-        },
-        {
           "frame_end": 701,
-          "frame_start": 644,
+          "frame_start": 549,
           "merge": false,
           "offscreen": true,
           "speaker": "baron"
@@ -31964,7 +31835,7 @@
           "speaker": "baron"
         },
         {
-          "frame_end": 548,
+          "frame_end": 549,
           "frame_start": 505,
           "merge": false,
           "offscreen": true,
@@ -32163,50 +32034,50 @@
           "speaker": "baron"
         },
         {
-          "frame_end": 291,
+          "frame_end": 315,
           "frame_start": 195,
           "merge": false,
           "offscreen": true,
           "speaker": "baron"
         },
         {
-          "frame_end": 413,
-          "frame_start": 292,
+          "frame_end": 439,
+          "frame_start": 315,
           "merge": false,
           "offscreen": true,
           "speaker": "baron"
         },
         {
-          "frame_end": 489,
-          "frame_start": 414,
+          "frame_end": 539,
+          "frame_start": 439,
           "merge": false,
           "offscreen": true,
           "speaker": "baron"
         },
         {
-          "frame_end": 610,
-          "frame_start": 490,
+          "frame_end": 590,
+          "frame_start": 547,
           "merge": false,
           "offscreen": true,
           "speaker": "baron"
         },
         {
-          "frame_end": 701,
-          "frame_start": 611,
+          "frame_end": 736,
+          "frame_start": 610,
           "merge": false,
           "offscreen": true,
           "speaker": "baron"
         },
         {
-          "frame_end": 803,
-          "frame_start": 702,
+          "frame_end": 863,
+          "frame_start": 737,
           "merge": false,
           "offscreen": true,
           "speaker": "baron"
         },
         {
           "frame_end": 922,
-          "frame_start": 804,
+          "frame_start": 866,
           "merge": false,
           "offscreen": true,
           "speaker": "baron"
@@ -32237,29 +32108,22 @@
           "speaker": "baron"
         },
         {
-          "frame_end": 380,
+          "frame_end": 427,
           "frame_start": 285,
           "merge": false,
           "offscreen": true,
           "speaker": "baron"
         },
         {
-          "frame_end": 450,
-          "frame_start": 381,
-          "merge": false,
-          "offscreen": true,
-          "speaker": "baron"
-        },
-        {
           "frame_end": 569,
-          "frame_start": 451,
+          "frame_start": 427,
           "merge": false,
           "offscreen": true,
           "speaker": "baron"
         },
         {
           "frame_end": 670,
-          "frame_start": 570,
+          "frame_start": 569,
           "merge": false,
           "offscreen": true,
           "speaker": "baron"
@@ -32400,7 +32264,7 @@
           "speaker": "baron"
         },
         {
-          "frame_end": 225,
+          "frame_end": 264,
           "frame_start": 141,
           "merge": false,
           "offscreen": true,
@@ -32408,7 +32272,7 @@
         },
         {
           "frame_end": 388,
-          "frame_start": 226,
+          "frame_start": 264,
           "merge": false,
           "offscreen": true,
           "speaker": "baron"
@@ -32432,28 +32296,28 @@
     "prop056": {
       "lines": [
         {
-          "frame_end": 157,
+          "frame_end": 210,
           "frame_start": 0,
           "merge": false,
           "offscreen": true,
           "speaker": "baron"
         },
         {
-          "frame_end": 298,
-          "frame_start": 158,
+          "frame_end": 286,
+          "frame_start": 210,
           "merge": false,
           "offscreen": true,
           "speaker": "baron"
         },
         {
-          "frame_end": 476,
+          "frame_end": 464,
           "frame_start": 317,
           "merge": false,
           "offscreen": true,
           "speaker": "baron"
         },
         {
-          "frame_end": 581,
+          "frame_end": 623,
           "frame_start": 477,
           "merge": false,
           "offscreen": true,
@@ -32461,7 +32325,7 @@
         },
         {
           "frame_end": 710,
-          "frame_start": 581,
+          "frame_start": 623,
           "merge": false,
           "offscreen": true,
           "speaker": "baron"
@@ -32492,7 +32356,7 @@
           "speaker": "baron"
         },
         {
-          "frame_end": 210,
+          "frame_end": 192,
           "frame_start": 99,
           "merge": false,
           "offscreen": true,
@@ -32500,7 +32364,7 @@
         },
         {
           "frame_end": 328,
-          "frame_start": 211,
+          "frame_start": 192,
           "merge": false,
           "offscreen": true,
           "speaker": "baron"
@@ -32513,7 +32377,7 @@
           "speaker": "baron"
         },
         {
-          "frame_end": 618,
+          "frame_end": 624,
           "frame_start": 526,
           "merge": false,
           "offscreen": true,
@@ -32521,7 +32385,7 @@
         },
         {
           "frame_end": 702,
-          "frame_start": 619,
+          "frame_start": 624,
           "merge": false,
           "offscreen": true,
           "speaker": "baron"
@@ -32545,36 +32409,36 @@
     "prop058": {
       "lines": [
         {
-          "frame_end": 118,
-          "frame_start": 0,
+          "frame_end": 56,
+          "frame_start": 11,
           "merge": false,
           "offscreen": true,
           "speaker": "baron"
         },
         {
-          "frame_end": 216,
-          "frame_start": 119,
+          "frame_end": 180,
+          "frame_start": 65,
           "merge": false,
           "offscreen": true,
           "speaker": "baron"
         },
         {
-          "frame_end": 304,
-          "frame_start": 217,
+          "frame_end": 288,
+          "frame_start": 192,
           "merge": false,
           "offscreen": true,
           "speaker": "baron"
         },
         {
-          "frame_end": 405,
+          "frame_end": 380,
           "frame_start": 305,
           "merge": false,
           "offscreen": true,
           "speaker": "baron"
         },
         {
-          "frame_end": 536,
-          "frame_start": 406,
+          "frame_end": 524,
+          "frame_start": 385,
           "merge": false,
           "offscreen": true,
           "speaker": "baron"
@@ -32587,22 +32451,22 @@
           "speaker": "baron"
         },
         {
-          "frame_end": 786,
+          "frame_end": 692,
           "frame_start": 639,
           "merge": false,
           "offscreen": true,
           "speaker": "baron"
         },
         {
-          "frame_end": 881,
-          "frame_start": 787,
+          "frame_end": 828,
+          "frame_start": 718,
           "merge": false,
           "offscreen": true,
           "speaker": "baron"
         },
         {
           "frame_end": 946,
-          "frame_start": 882,
+          "frame_start": 828,
           "merge": false,
           "offscreen": true,
           "speaker": "baron"
@@ -32619,29 +32483,29 @@
     "sam001": {
       "lines": [
         {
-          "frame_end": 148,
+          "frame_end": 40,
           "frame_start": 0,
           "merge": false,
           "offscreen": true,
           "speaker": "samos"
         },
         {
-          "frame_end": 279,
-          "frame_start": 149,
+          "frame_end": 214,
+          "frame_start": 44,
           "merge": false,
           "offscreen": true,
           "speaker": "samos"
         },
         {
-          "frame_end": 408,
-          "frame_start": 280,
+          "frame_end": 389,
+          "frame_start": 214,
           "merge": false,
           "offscreen": true,
           "speaker": "samos"
         },
         {
           "frame_end": 479,
-          "frame_start": 409,
+          "frame_start": 389,
           "merge": false,
           "offscreen": true,
           "speaker": "samos"
@@ -32651,7 +32515,7 @@
     "sam002": {
       "lines": [
         {
-          "frame_end": 93,
+          "frame_end": 136,
           "frame_start": 0,
           "merge": false,
           "offscreen": true,
@@ -32659,7 +32523,7 @@
         },
         {
           "frame_end": 199,
-          "frame_start": 94,
+          "frame_start": 136,
           "merge": false,
           "offscreen": true,
           "speaker": "samos"
@@ -32676,7 +32540,7 @@
     "sam003": {
       "lines": [
         {
-          "frame_end": 104,
+          "frame_end": 52,
           "frame_start": 0,
           "merge": false,
           "offscreen": true,
@@ -32684,21 +32548,21 @@
         },
         {
           "frame_end": 205,
-          "frame_start": 105,
+          "frame_start": 52,
           "merge": false,
           "offscreen": true,
           "speaker": "samos"
         },
         {
-          "frame_end": 288,
-          "frame_start": 206,
+          "frame_end": 341,
+          "frame_start": 205,
           "merge": false,
           "offscreen": true,
           "speaker": "samos"
         },
         {
           "frame_end": 406,
-          "frame_start": 289,
+          "frame_start": 341,
           "merge": false,
           "offscreen": true,
           "speaker": "samos"
@@ -32708,14 +32572,14 @@
     "sam004": {
       "lines": [
         {
-          "frame_end": 118,
+          "frame_end": 119,
           "frame_start": 0,
           "merge": false,
           "offscreen": true,
           "speaker": "samos"
         },
         {
-          "frame_end": 203,
+          "frame_end": 238,
           "frame_start": 119,
           "merge": false,
           "offscreen": true,
@@ -32723,7 +32587,7 @@
         },
         {
           "frame_end": 310,
-          "frame_start": 204,
+          "frame_start": 243,
           "merge": false,
           "offscreen": true,
           "speaker": "samos"
@@ -32816,7 +32680,7 @@
     "sigc002": {
       "lines": [
         {
-          "frame_end": 80,
+          "frame_end": 82,
           "frame_start": 0,
           "merge": false,
           "offscreen": true,
@@ -32824,7 +32688,7 @@
         },
         {
           "frame_end": 141,
-          "frame_start": 81,
+          "frame_start": 82,
           "merge": false,
           "offscreen": true,
           "speaker": "sig"
@@ -32900,7 +32764,7 @@
     "sigc015": {
       "lines": [
         {
-          "frame_end": 49,
+          "frame_end": 50,
           "frame_start": 0,
           "merge": false,
           "offscreen": true,
@@ -32929,7 +32793,7 @@
     "sigc024": {
       "lines": [
         {
-          "frame_end": 74,
+          "frame_end": 38,
           "frame_start": 0,
           "merge": false,
           "offscreen": true,
@@ -32937,7 +32801,7 @@
         },
         {
           "frame_end": 110,
-          "frame_start": 75,
+          "frame_start": 38,
           "merge": false,
           "offscreen": true,
           "speaker": "sig"
@@ -33138,7 +33002,7 @@
         },
         {
           "frame_end": 150,
-          "frame_start": 70,
+          "frame_start": 69,
           "merge": false,
           "offscreen": true,
           "speaker": "sig"
@@ -33148,7 +33012,7 @@
     "sigc075": {
       "lines": [
         {
-          "frame_end": 71,
+          "frame_end": 41,
           "frame_start": 0,
           "merge": false,
           "offscreen": true,
@@ -33156,7 +33020,7 @@
         },
         {
           "frame_end": 127,
-          "frame_start": 72,
+          "frame_start": 41,
           "merge": false,
           "offscreen": true,
           "speaker": "sig"
@@ -33217,7 +33081,7 @@
     "sigf001": {
       "lines": [
         {
-          "frame_end": 100,
+          "frame_end": 160,
           "frame_start": 0,
           "merge": false,
           "offscreen": true,
@@ -33225,7 +33089,7 @@
         },
         {
           "frame_end": 240,
-          "frame_start": 101,
+          "frame_start": 166,
           "merge": false,
           "offscreen": true,
           "speaker": "sig"
@@ -33308,7 +33172,7 @@
     "sigt012": {
       "lines": [
         {
-          "frame_end": 72,
+          "frame_end": 34,
           "frame_start": 0,
           "merge": false,
           "offscreen": true,
@@ -33316,7 +33180,7 @@
         },
         {
           "frame_end": 109,
-          "frame_start": 73,
+          "frame_start": 36,
           "merge": false,
           "offscreen": true,
           "speaker": "sig"
@@ -33959,15 +33823,15 @@
     "tess001": {
       "lines": [
         {
-          "frame_end": 95,
+          "frame_end": 53,
           "frame_start": 0,
           "merge": false,
           "offscreen": true,
           "speaker": "tess"
         },
         {
-          "frame_end": 160,
-          "frame_start": 96,
+          "frame_end": 161,
+          "frame_start": 53,
           "merge": false,
           "offscreen": true,
           "speaker": "tess"
